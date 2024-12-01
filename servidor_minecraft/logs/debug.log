@@ -530,3 +530,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Dec2024 03:43:08.050] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [01Dec2024 03:48:08.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Dec2024 03:48:08.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:53:08.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:53:08.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Dec2024 03:55:34.228] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.maxCapacityPerThread: 4096
+[01Dec2024 03:55:34.229] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.ratio: 8
+[01Dec2024 03:55:34.229] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.chunkSize: 32
+[01Dec2024 03:55:34.229] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
+[01Dec2024 03:55:34.233] [Netty Epoll Server IO #2/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkAccessible: true
+[01Dec2024 03:55:34.233] [Netty Epoll Server IO #2/DEBUG] [io.netty.buffer.AbstractByteBuf/]: -Dio.netty.buffer.checkBounds: true
+[01Dec2024 03:55:34.233] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.ResourceLeakDetectorFactory/]: Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@68bed4e0
+[01Dec2024 03:58:08.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Dec2024 03:58:08.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
