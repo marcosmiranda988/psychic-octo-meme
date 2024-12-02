@@ -10888,3 +10888,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 05:07:49.628] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
 [02Dec2024 05:07:49.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 05:07:49.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 05:08:34.347] [Worker-Main16/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-501, y=34, z=-17} at Chest with:minecraft:chests/simple_dungeon
+[02Dec2024 05:08:34.693] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/shaded_woodlands/town_centers/2
+[02Dec2024 05:08:34.716] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/brightlands/town_centers/0
+[02Dec2024 05:08:34.739] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/sunset_maple_forest/town_centers/0
+[02Dec2024 05:08:34.764] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/town_centers/0
+[02Dec2024 05:08:34.783] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/calming_skies/town_centers/1
+[02Dec2024 05:08:34.802] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/slushlands/town_centers/2
+[02Dec2024 05:08:56.803] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[02Dec2024 05:08:56.803] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[02Dec2024 05:09:46.061] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-312, y=28, z=-296}
+[02Dec2024 05:10:06.432] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[02Dec2024 05:11:10.345] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[02Dec2024 05:12:49.616] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[02Dec2024 05:12:49.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 05:12:49.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 05:14:41.149] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[02Dec2024 05:16:32.089] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[02Dec2024 05:16:32.090] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[02Dec2024 05:16:54.869] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[02Dec2024 05:17:49.612] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[02Dec2024 05:17:49.612] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[02Dec2024 05:17:49.613] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[02Dec2024 05:17:49.615] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[02Dec2024 05:17:49.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 05:17:49.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
