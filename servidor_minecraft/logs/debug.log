@@ -10837,3 +10837,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 04:46:57.382] [Worker-Main16/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [02Dec2024 04:47:00.018] [Worker-Main16/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
 [02Dec2024 04:47:04.338] [IO-Worker-12/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[02Dec2024 04:47:49.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:47:49.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:48:03.101] [Worker-Main17/WARN] [ModernFix/]: The namespace terralith contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Dec2024 04:48:03.102] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/desert/houses/castle is being run through DFU (hash 9dae39c679888a60af859628f6bfeb69108af898e8515733de7652bf2536413f), this will cause launch time delays
+[02Dec2024 04:48:03.964] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[02Dec2024 04:48:04.371] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[02Dec2024 04:48:04.419] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[02Dec2024 04:48:04.465] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[02Dec2024 04:48:04.881] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[02Dec2024 04:48:04.993] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[02Dec2024 04:48:05.066] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[02Dec2024 04:48:05.088] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[02Dec2024 04:48:05.093] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[02Dec2024 04:48:05.095] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[02Dec2024 04:48:05.097] [Worker-Main17/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[02Dec2024 04:48:08.083] [Worker-Main17/WARN] [ModernFix/]: The namespace bosses_of_mass_destruction contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[02Dec2024 04:48:08.084] [Worker-Main17/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:obsidilith_arena/base is being run through DFU (hash 5aae15799233df324ef3fffe90f32ece26a2e0972b73cddf8f2c25d40189f4e8), this will cause launch time delays
+[02Dec2024 04:49:01.773] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[02Dec2024 04:51:04.104] [IO-Worker-13/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[02Dec2024 04:51:04.104] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[02Dec2024 04:51:04.308] [Worker-Main17/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_castle_evoker
+[02Dec2024 04:51:04.418] [Worker-Main17/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_hardcastle
+[02Dec2024 04:51:04.520] [Worker-Main17/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pill
+[02Dec2024 04:51:04.613] [Worker-Main17/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_palace
+[02Dec2024 04:51:04.753] [Worker-Main17/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pyramid
+[02Dec2024 04:52:49.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:52:49.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 04:55:59.188] [IO-Worker-10/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[02Dec2024 04:57:22.308] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-228, y=58, z=42} BlockPos{x=-228, y=59, z=42}
+[02Dec2024 04:57:49.618] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[02Dec2024 04:57:49.618] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[02Dec2024 04:57:49.626] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[02Dec2024 04:57:49.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 04:57:49.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
