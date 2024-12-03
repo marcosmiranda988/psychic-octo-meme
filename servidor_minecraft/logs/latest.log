@@ -1592,3 +1592,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 10:39:10.785] [Server thread/WARN] [ModernFix/]: The namespace twilightforest contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [03Dec2024 10:40:54.908] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
 [03Dec2024 10:57:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Flowers of the Savanna]
+[03Dec2024 11:08:49.214] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/22339, l='ServerLevel[world]', x=-192.42, y=-5.83, z=43.59, removed=DISCARDED]
