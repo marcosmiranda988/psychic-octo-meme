@@ -10884,3 +10884,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 10:35:58.437] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_castle_evoker
 [03Dec2024 10:38:29.392] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
 [03Dec2024 10:38:29.412] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[03Dec2024 10:39:10.785] [Server thread/WARN] [ModernFix/]: The namespace twilightforest contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[03Dec2024 10:39:10.786] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/pathway is being run through DFU (hash ddd99de4c93db01222730378578d1eb5134fe59cb6cec3d999f57b117098a9b9), this will cause launch time delays
+[03Dec2024 10:39:11.348] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/terrace_fire is being run through DFU (hash 33fc39787d843c88af0ac61c94a6e0159bd71f07c5d89796e70eedf59ff346ab), this will cause launch time delays
+[03Dec2024 10:39:11.379] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/terrace_duct is being run through DFU (hash 11e6ba55f7b0403d8a2144c0038137b51a9f61c4e7398abde44429e59e996de9), this will cause launch time delays
+[03Dec2024 10:39:11.392] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_padding is being run through DFU (hash d25dec58295afc756c39103beda21bb357572004e96298629ee25454b48cebb5), this will cause launch time delays
+[03Dec2024 10:39:11.394] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_padding_decayed is being run through DFU (hash 0b6dfc614d660e0258b2f97ca6cd1b2babe14d6d5e0fe29836fd5f463347ddb2), this will cause launch time delays
+[03Dec2024 10:39:11.396] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall is being run through DFU (hash f77cc02a4707d3e001963bac523eb016d22084df2e54d03c69a60b5027223ccb), this will cause launch time delays
+[03Dec2024 10:39:11.401] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_decayed is being run through DFU (hash 9c21569bef440afdb177aa824b0ee882528232e0ccd7b136c2c17fc1b1e4508c), this will cause launch time delays
+[03Dec2024 10:39:11.405] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_corner is being run through DFU (hash bd69527fee5e6281b1c16cfd5a97c0de4b61f7b9a5ce4203d7bb2e860e97b44f), this will cause launch time delays
+[03Dec2024 10:39:11.408] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_corner_decayed is being run through DFU (hash 468c99676e878eac79b3976e45a2d25bdedb3daefd15512223c943c8991781ca), this will cause launch time delays
+[03Dec2024 10:39:11.412] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_corner_inner is being run through DFU (hash 0070e04741c971e68d404266c243ce757bbb02f4b33e7fa37bad156a7bc9c7bf), this will cause launch time delays
+[03Dec2024 10:39:11.419] [Server thread/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/courtyard_wall_corner_inner_decayed is being run through DFU (hash f10ca7c6824fb8fb2b30e8ebf33e7a48c7ad012277a55dffcdf087f5f5923d1a), this will cause launch time delays
+[03Dec2024 10:39:12.208] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[03Dec2024 10:39:36.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 10:39:36.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 10:40:01.028] [Worker-Main2/DEBUG] [ModernFix/]: Structure twilightforest:feature/ruins/stone_circle is being run through DFU (hash 356ed01a11cf47c16573697c1ef21d7d6266acda41b28f6a4098717d67a55993), this will cause launch time delays
+[03Dec2024 10:40:54.908] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[03Dec2024 10:41:14.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/decayed
+[03Dec2024 10:42:34.703] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[03Dec2024 10:44:28.928] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[03Dec2024 10:44:31.831] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[03Dec2024 10:44:35.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[03Dec2024 10:44:35.998] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[03Dec2024 10:44:35.999] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[03Dec2024 10:44:36.070] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[03Dec2024 10:44:36.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 10:44:36.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 10:47:25.234] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[03Dec2024 10:47:25.234] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[03Dec2024 10:47:25.235] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
