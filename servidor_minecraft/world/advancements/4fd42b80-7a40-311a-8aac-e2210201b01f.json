@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2024-12-03 11:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-14 21:57:58 +0000"
@@ -4017,6 +4023,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2024-12-03 11:09:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-11-13 11:10:26 +0000"
@@ -4386,6 +4398,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-11-24 23:34:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2024-12-03 11:09:00 +0000"
     },
     "done": true
   },
