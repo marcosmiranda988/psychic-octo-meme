@@ -1591,3 +1591,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 10:35:57.470] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [03Dec2024 10:39:10.785] [Server thread/WARN] [ModernFix/]: The namespace twilightforest contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [03Dec2024 10:40:54.908] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[03Dec2024 10:57:14.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Flowers of the Savanna]
