@@ -10853,3 +10853,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Dec2024 10:24:36.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Dec2024 10:24:36.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Dec2024 10:25:48.025] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[03Dec2024 10:29:36.004] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[03Dec2024 10:29:36.008] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[03Dec2024 10:29:36.008] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[03Dec2024 10:29:36.009] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[03Dec2024 10:29:36.011] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[03Dec2024 10:29:36.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 10:29:36.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 10:31:39.183] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[03Dec2024 10:33:37.630] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[03Dec2024 10:33:37.630] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[03Dec2024 10:34:36.028] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[03Dec2024 10:34:36.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Dec2024 10:34:36.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Dec2024 10:35:47.894] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[03Dec2024 10:35:56.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[03Dec2024 10:35:56.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[03Dec2024 10:35:56.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[03Dec2024 10:35:56.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[03Dec2024 10:35:56.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[03Dec2024 10:35:56.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[03Dec2024 10:35:56.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[03Dec2024 10:35:56.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[03Dec2024 10:35:56.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[03Dec2024 10:35:57.470] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[03Dec2024 10:35:57.815] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_palace
+[03Dec2024 10:35:57.993] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_hardcastle
+[03Dec2024 10:35:58.118] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pill
+[03Dec2024 10:35:58.281] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pyramid
+[03Dec2024 10:35:58.437] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_castle_evoker
+[03Dec2024 10:38:29.392] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[03Dec2024 10:38:29.412] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
