@@ -11221,3 +11221,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 08:52:11.670] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
 [04Dec2024 08:52:11.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 08:52:11.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:54:58.839] [IO-Worker-203/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-205
+[04Dec2024 08:54:58.839] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-206
+[04Dec2024 08:56:30.796] [IO-Worker-201/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-207
+[04Dec2024 08:56:30.797] [IO-Worker-206/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-208
+[04Dec2024 08:56:32.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[04Dec2024 08:56:56.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[04Dec2024 08:57:08.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[04Dec2024 08:57:08.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[04Dec2024 08:57:08.643] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[04Dec2024 08:57:08.663] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[04Dec2024 08:57:08.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[04Dec2024 08:57:08.680] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[04Dec2024 08:57:08.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[04Dec2024 08:57:08.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[04Dec2024 08:57:08.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[04Dec2024 08:57:09.011] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[04Dec2024 08:57:09.053] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[04Dec2024 08:57:09.059] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[04Dec2024 08:57:09.060] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[04Dec2024 08:57:09.086] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[04Dec2024 08:57:14.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
+[04Dec2024 08:57:15.704] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-209
+[04Dec2024 08:57:15.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:57:15.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:57:53.665] [Server thread/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Dec2024 08:57:53.666] [Server thread/DEBUG] [ModernFix/]: Structure waystones:village/common/waystone is being run through DFU (hash 1841a7692d09c3bdab6a655ee3aa384b646244da518d90b1f9c4e68e29667cee), this will cause launch time delays
+[04Dec2024 08:57:54.439] [Server thread/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[04Dec2024 08:57:54.440] [Server thread/DEBUG] [ModernFix/]: Structure iceandfire:village/taiga_scriber_1 is being run through DFU (hash 46cb42baa6f67fe14d959fb0ea6208ae9fb55c570235dea6c716e52055308238), this will cause launch time delays
+[04Dec2024 09:00:18.686] [IO-Worker-203/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-210
+[04Dec2024 09:00:24.709] [IO-Worker-210/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-211
+[04Dec2024 09:00:24.710] [IO-Worker-210/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-212
+[04Dec2024 09:00:24.710] [IO-Worker-210/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-213
+[04Dec2024 09:02:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-214
+[04Dec2024 09:02:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-215
+[04Dec2024 09:02:15.702] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-216
+[04Dec2024 09:02:15.724] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-217
+[04Dec2024 09:02:15.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 09:02:15.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
