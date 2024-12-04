@@ -1623,3 +1623,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 09:49:35.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [04Dec2024 10:06:23.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=64, z=6} BlockPos{x=-113, y=63, z=6}
 [04Dec2024 10:32:41.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Noble]
+[04Dec2024 11:16:50.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 lost connection: Disconnected
+[04Dec2024 11:16:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 left the game
+[04Dec2024 11:16:57.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Dec2024 11:16:57.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[04Dec2024 11:16:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 11:16:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 11:16:57.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 11:16:59.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 11:16:59.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[04Dec2024 11:16:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 11:16:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[04Dec2024 11:16:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[04Dec2024 11:16:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 11:16:59.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[04Dec2024 11:16:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 11:16:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[04Dec2024 11:16:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
