@@ -1660,6 +1660,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-04 09:54:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-11-17 17:55:38 +0000"
@@ -2406,6 +2412,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_chest": {
     "criteria": {
       "has_item": "2024-11-25 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-04 09:54:02 +0000"
     },
     "done": true
   },
@@ -3266,6 +3278,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-13 11:10:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-04 10:00:28 +0000"
     },
     "done": true
   },
@@ -4368,6 +4386,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-11-17 19:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-04 09:54:02 +0000"
     },
     "done": true
   },

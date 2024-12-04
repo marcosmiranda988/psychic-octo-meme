@@ -11343,3 +11343,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 09:52:15.702] [IO-Worker-264/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-272
 [04Dec2024 09:52:15.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 09:52:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 09:55:01.692] [IO-Worker-267/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-273
+[04Dec2024 09:56:06.553] [IO-Worker-273/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-274
+[04Dec2024 09:57:15.707] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-275
+[04Dec2024 09:57:15.707] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-276
+[04Dec2024 09:57:15.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-277
+[04Dec2024 09:57:15.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-278
+[04Dec2024 09:57:15.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 09:57:15.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 10:02:15.697] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-279
+[04Dec2024 10:02:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-280
+[04Dec2024 10:02:15.700] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-281
+[04Dec2024 10:02:15.700] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-282
+[04Dec2024 10:02:15.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 10:02:15.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
