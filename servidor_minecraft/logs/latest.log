@@ -1608,3 +1608,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 07:40:14.742] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elvira'/11715, l='ServerLevel[world]', x=-203.25, y=69.00, z=31.16] died: Elvira (Staying) was slain by Zombie
 [04Dec2024 07:40:14.744] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [04Dec2024 07:40:14.749] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[04Dec2024 07:54:11.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-283, y=72, z=22} BlockPos{x=-283, y=71, z=23}
+[04Dec2024 07:58:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Finding Common Ground]

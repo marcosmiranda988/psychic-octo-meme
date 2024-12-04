@@ -3633,6 +3633,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:tamed_potato_beetle": {
+    "criteria": {
+      "picked_up_accessory": "2024-12-04 07:58:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/canopy_stairs": {
     "criteria": {
       "has_item": "2024-11-18 19:47:59 +0000"
