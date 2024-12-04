@@ -11186,3 +11186,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 08:32:11.675] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
 [04Dec2024 08:32:11.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 08:32:11.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:33:32.839] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[04Dec2024 08:35:55.234] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[04Dec2024 08:37:11.652] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[04Dec2024 08:37:11.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[04Dec2024 08:37:11.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[04Dec2024 08:37:11.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[04Dec2024 08:37:11.676] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[04Dec2024 08:37:11.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:37:11.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:42:11.645] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[04Dec2024 08:42:11.649] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[04Dec2024 08:42:11.649] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[04Dec2024 08:42:11.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[04Dec2024 08:42:11.650] [IO-Worker-184/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[04Dec2024 08:42:11.651] [IO-Worker-184/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[04Dec2024 08:42:11.652] [IO-Worker-184/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[04Dec2024 08:42:11.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:42:11.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:43:40.593] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[04Dec2024 08:47:02.235] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[04Dec2024 08:47:11.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-194
+[04Dec2024 08:47:11.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-195
+[04Dec2024 08:47:11.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-196
+[04Dec2024 08:47:11.665] [IO-Worker-194/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-197
+[04Dec2024 08:47:11.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:47:11.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 08:48:56.596] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-198
+[04Dec2024 08:50:35.946] [IO-Worker-198/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-199
+[04Dec2024 08:52:11.648] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-200
+[04Dec2024 08:52:11.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-201
+[04Dec2024 08:52:11.650] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-202
+[04Dec2024 08:52:11.651] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-203
+[04Dec2024 08:52:11.670] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-204
+[04Dec2024 08:52:11.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 08:52:11.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
