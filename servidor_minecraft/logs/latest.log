@@ -1588,3 +1588,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 06:41:52.203] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
 [04Dec2024 06:41:59.936] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [04Dec2024 06:46:09.160] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[04Dec2024 06:58:43.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[04Dec2024 06:58:45.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
+[04Dec2024 06:58:45.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult

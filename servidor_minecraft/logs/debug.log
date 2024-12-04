@@ -10944,3 +10944,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 06:50:49.388] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
 [04Dec2024 06:50:49.388] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
 [04Dec2024 06:51:36.256] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[04Dec2024 06:52:11.657] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[04Dec2024 06:52:11.657] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[04Dec2024 06:52:11.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 06:52:11.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 06:53:15.700] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[04Dec2024 06:53:15.700] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[04Dec2024 06:53:20.793] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[04Dec2024 06:55:31.744] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[04Dec2024 06:57:11.657] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[04Dec2024 06:57:11.686] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[04Dec2024 06:57:11.687] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[04Dec2024 06:57:11.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 06:57:11.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 06:58:43.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[04Dec2024 06:58:45.713] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[04Dec2024 06:58:45.713] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[04Dec2024 06:58:45.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
+[04Dec2024 06:58:45.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[04Dec2024 06:58:46.149] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[04Dec2024 06:58:46.149] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[04Dec2024 06:58:46.150] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[04Dec2024 06:58:53.564] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[04Dec2024 06:58:53.694] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[04Dec2024 06:58:53.710] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[04Dec2024 06:58:53.740] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[04Dec2024 06:58:53.763] [Worker-Main1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[04Dec2024 07:00:06.459] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[04Dec2024 07:00:36.681] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main50
+[04Dec2024 07:01:15.437] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[04Dec2024 07:01:24.428] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[04Dec2024 07:01:24.431] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[04Dec2024 07:01:24.432] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
