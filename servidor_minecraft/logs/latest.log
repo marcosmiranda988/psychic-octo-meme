@@ -1616,3 +1616,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 08:57:53.665] [Server thread/WARN] [ModernFix/]: The namespace waystones contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [04Dec2024 08:57:54.439] [Server thread/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [04Dec2024 09:16:38.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved wrongly!
+[04Dec2024 09:34:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Merchant]
+[04Dec2024 09:36:17.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[04Dec2024 09:36:17.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType

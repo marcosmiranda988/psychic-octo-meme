@@ -11304,3 +11304,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 09:32:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-248
 [04Dec2024 09:32:15.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 09:32:15.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 09:33:51.642] [Worker-Main57/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main57 shutdown
+[04Dec2024 09:34:25.699] [Worker-Main58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main249
+[04Dec2024 09:34:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Merchant]
+[04Dec2024 09:35:36.038] [IO-Worker-248/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-250
+[04Dec2024 09:36:17.541] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/tile/base/WrenchResult
+[04Dec2024 09:36:17.556] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/inventory/container/sync/ISyncableData$DirtyType
+[04Dec2024 09:37:15.700] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-251
+[04Dec2024 09:37:15.704] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-252
+[04Dec2024 09:37:15.704] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-253
+[04Dec2024 09:37:15.705] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-254
+[04Dec2024 09:37:15.706] [IO-Worker-248/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-255
+[04Dec2024 09:37:15.725] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-256
+[04Dec2024 09:37:15.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 09:37:15.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 09:37:27.587] [Worker-Main249/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main249 shutdown
+[04Dec2024 09:37:35.489] [Worker-Main58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main257
+[04Dec2024 09:40:46.891] [IO-Worker-256/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-258
+[04Dec2024 09:42:15.698] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-259
+[04Dec2024 09:42:15.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-260
+[04Dec2024 09:42:15.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-261
+[04Dec2024 09:42:15.708] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-262
+[04Dec2024 09:42:15.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 09:42:15.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
