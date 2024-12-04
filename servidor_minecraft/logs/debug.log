@@ -11464,3 +11464,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 11:02:15.716] [IO-Worker-358/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
 [04Dec2024 11:02:15.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 11:02:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:05:09.182] [IO-Worker-359/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-362
+[04Dec2024 11:05:09.182] [IO-Worker-355/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-363
+[04Dec2024 11:06:10.843] [IO-Worker-363/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-364
+[04Dec2024 11:07:15.696] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-365
+[04Dec2024 11:07:15.698] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-366
+[04Dec2024 11:07:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-367
+[04Dec2024 11:07:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-368
+[04Dec2024 11:07:15.717] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-369
+[04Dec2024 11:07:15.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:07:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:07:50.139] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[04Dec2024 11:07:50.181] [Worker-Main58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main370
+[04Dec2024 11:11:48.089] [IO-Worker-368/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-371
+[04Dec2024 11:12:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-372
+[04Dec2024 11:12:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-373
+[04Dec2024 11:12:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-374
+[04Dec2024 11:12:15.716] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-376
+[04Dec2024 11:12:15.716] [IO-Worker-372/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-375
+[04Dec2024 11:12:15.717] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-377
+[04Dec2024 11:12:15.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:12:15.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
