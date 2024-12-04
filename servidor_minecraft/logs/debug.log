@@ -11009,3 +11009,40 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 07:10:35.444] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
 [04Dec2024 07:11:54.640] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
 [04Dec2024 07:11:54.641] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[04Dec2024 07:12:11.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[04Dec2024 07:12:11.654] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[04Dec2024 07:12:11.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 07:12:11.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 07:13:49.403] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[04Dec2024 07:13:49.403] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[04Dec2024 07:13:49.524] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[04Dec2024 07:13:49.524] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[04Dec2024 07:13:49.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 9.290896017152562,-63.805438451751215,-3.6272667161741268
+[04Dec2024 07:14:37.960] [Worker-Main57/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/stone_circle
+[04Dec2024 07:14:46.902] [Worker-Main57/DEBUG] [ModernFix/]: Structure twilightforest:feature/ruins/grove_arch is being run through DFU (hash 5d4d450c591d3a6974aad3d79f769aa6d2420a3bf996e7777bc275d653f86806), this will cause launch time delays
+[04Dec2024 07:15:02.039] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_end_pillar is being run through DFU (hash 58a7a2092106dc3d3c8b96491f01c0864137b9f37850fef94c6d61ce9f877d58), this will cause launch time delays
+[04Dec2024 07:15:02.476] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_end_pillar_big is being run through DFU (hash ad64d54980e5b8a2a472e390a3dc0e87c106ab4bf9872be3d49ccd56c2bb89f5), this will cause launch time delays
+[04Dec2024 07:15:02.485] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_corner is being run through DFU (hash 5fd30d341d1d1bd90ba5e128f2c7c187e06a2ba72120197f3998986909a93d44), this will cause launch time delays
+[04Dec2024 07:15:02.494] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_corner_big is being run through DFU (hash edd0bb1fe1dccbdcc0ffb47242b897c56c4da963839ca0154fac95db10e39f38), this will cause launch time delays
+[04Dec2024 07:15:02.501] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_between is being run through DFU (hash bc1bec073eadaa2b68743524df9b267fd17702b30f1d47805f61985631eb92d9), this will cause launch time delays
+[04Dec2024 07:15:02.505] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_between_big is being run through DFU (hash 7d4d1eff28e9f47828dde59dcc09de643a665e820ae92c276558a00cf1779ed7), this will cause launch time delays
+[04Dec2024 07:15:02.508] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_line is being run through DFU (hash 2956ea7b25e1cfbfc0aeba2e84fa36214de26474ec8a25fb60dfaabd5198a9f7), this will cause launch time delays
+[04Dec2024 07:15:02.512] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_line_big is being run through DFU (hash d9b226c3abce8b445d00992c6eb32d3648c14b4d1071b1c3c911293460527e80), this will cause launch time delays
+[04Dec2024 07:15:02.537] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_end is being run through DFU (hash a7d5bd1072fdfd343f2990e6140f5254f4c6749bdf0c7cee910b4d44a75e46a3), this will cause launch time delays
+[04Dec2024 07:15:02.544] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:courtyard/hedge_end_big is being run through DFU (hash bd23ec0dcec05dbd1150144fd8a3322b02a1af3a6e8e7d97bf8852440d74b678), this will cause launch time delays
+[04Dec2024 07:15:16.316] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:feature/druid_hut/druid_doubledeck is being run through DFU (hash eb6f5888fda2fa40fb240171d2c3cba6479b8ef0bfe334bb1f89e1bb6a1a8d04), this will cause launch time delays
+[04Dec2024 07:15:16.474] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant
+[04Dec2024 07:15:16.478] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant$WoodShapes
+[04Dec2024 07:15:51.806] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[04Dec2024 07:15:51.822] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[04Dec2024 07:15:52.234] [Worker-Main1/DEBUG] [ModernFix/]: Structure twilightforest:feature/well/simple_well_top is being run through DFU (hash 4545611093698b117c42083812fcd761d533d8e9f1b9b4af220a77c21532c40f), this will cause launch time delays
+[04Dec2024 07:15:53.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=1, z=-13} BlockPos{x=131, y=0, z=-11}
+[04Dec2024 07:16:56.151] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[04Dec2024 07:17:11.656] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[04Dec2024 07:17:11.656] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[04Dec2024 07:17:11.682] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[04Dec2024 07:17:11.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 07:17:11.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 07:19:25.565] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[04Dec2024 07:19:25.565] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[04Dec2024 07:21:16.741] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85

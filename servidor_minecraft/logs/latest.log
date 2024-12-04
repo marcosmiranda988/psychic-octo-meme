@@ -1598,3 +1598,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 07:04:53.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [04Dec2024 07:05:56.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [04Dec2024 07:06:00.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[04Dec2024 07:13:49.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 9.290896017152562,-63.805438451751215,-3.6272667161741268
+[04Dec2024 07:15:16.474] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant
+[04Dec2024 07:15:16.478] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/enums/StructureWoodVariant$WoodShapes
+[04Dec2024 07:15:51.822] [Worker-Main1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[04Dec2024 07:15:53.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=1, z=-13} BlockPos{x=131, y=0, z=-11}
