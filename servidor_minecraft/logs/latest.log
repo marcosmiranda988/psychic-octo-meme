@@ -1591,3 +1591,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 06:58:43.937] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [04Dec2024 06:58:45.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
 [04Dec2024 06:58:45.746] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[04Dec2024 07:02:40.239] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/content/transporter/TransporterStack$Path
+[04Dec2024 07:03:10.994] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[04Dec2024 07:03:10.995] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[04Dec2024 07:04:33.037] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by l1
+[04Dec2024 07:04:53.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[04Dec2024 07:05:56.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[04Dec2024 07:06:00.136] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
