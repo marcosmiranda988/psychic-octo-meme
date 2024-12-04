@@ -2376,7 +2376,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-04 10:52:15 +0000"
+      "requirement": "2024-12-04 11:02:15 +0000"
     },
     "done": false
   },
@@ -5842,6 +5842,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_plate": {
     "criteria": {
       "has_item": "2024-11-25 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-04 10:59:40 +0000"
     },
     "done": true
   },

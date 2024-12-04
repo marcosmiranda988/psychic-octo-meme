@@ -11449,3 +11449,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 10:52:15.714] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-350
 [04Dec2024 10:52:15.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 10:52:15.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 10:54:58.485] [IO-Worker-350/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-351
+[04Dec2024 10:56:12.335] [IO-Worker-350/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-352
+[04Dec2024 10:57:15.697] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-353
+[04Dec2024 10:57:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-354
+[04Dec2024 10:57:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-355
+[04Dec2024 10:57:15.701] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-356
+[04Dec2024 10:57:15.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 10:57:15.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 11:02:15.696] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-357
+[04Dec2024 11:02:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-358
+[04Dec2024 11:02:15.699] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-359
+[04Dec2024 11:02:15.700] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-360
+[04Dec2024 11:02:15.716] [IO-Worker-358/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-361
+[04Dec2024 11:02:15.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 11:02:15.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
