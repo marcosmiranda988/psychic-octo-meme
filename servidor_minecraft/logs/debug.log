@@ -11397,3 +11397,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 10:22:15.703] [IO-Worker-308/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-311
 [04Dec2024 10:22:15.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Dec2024 10:22:15.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 10:25:44.045] [IO-Worker-311/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-312
+[04Dec2024 10:27:15.697] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-313
+[04Dec2024 10:27:15.703] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-314
+[04Dec2024 10:27:15.703] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-315
+[04Dec2024 10:27:15.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 10:27:15.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 10:32:15.698] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-316
+[04Dec2024 10:32:15.702] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-317
+[04Dec2024 10:32:15.702] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-318
+[04Dec2024 10:32:15.702] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-319
+[04Dec2024 10:32:15.704] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-320
+[04Dec2024 10:32:15.704] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-321
+[04Dec2024 10:32:15.705] [IO-Worker-313/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-322
+[04Dec2024 10:32:15.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 10:32:15.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 10:32:41.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Noble]
