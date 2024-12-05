@@ -1586,3 +1586,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:48:28.667] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [05Dec2024 04:48:28.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
 [05Dec2024 04:50:14.757] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/c2s/ReportBuildingMessage$Action
+[05Dec2024 04:52:48.952] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
