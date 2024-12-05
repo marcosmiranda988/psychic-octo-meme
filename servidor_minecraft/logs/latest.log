@@ -1595,3 +1595,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:57:23.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
 [05Dec2024 05:57:23.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
 [05Dec2024 05:57:23.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=2, z=5} BlockPos{x=194, y=2, z=7}
+[05Dec2024 06:07:46.009] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
