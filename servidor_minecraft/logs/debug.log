@@ -11060,3 +11060,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 06:08:03.354] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
 [05Dec2024 06:08:03.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 06:08:03.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:13:03.327] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[05Dec2024 06:13:03.328] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[05Dec2024 06:13:03.328] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[05Dec2024 06:13:03.329] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[05Dec2024 06:13:03.351] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[05Dec2024 06:13:03.351] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[05Dec2024 06:13:03.351] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[05Dec2024 06:13:03.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:13:03.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:14:13.266] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[05Dec2024 06:14:18.314] [Worker-Main81/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main81 shutdown
+[05Dec2024 06:14:39.258] [Worker-Main82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main129
+[05Dec2024 06:16:12.068] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[05Dec2024 06:16:12.068] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[05Dec2024 06:18:03.330] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[05Dec2024 06:18:03.331] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[05Dec2024 06:18:03.331] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[05Dec2024 06:18:03.332] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[05Dec2024 06:18:03.332] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[05Dec2024 06:18:03.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:18:03.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:20:45.519] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[05Dec2024 06:21:45.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 lost connection: Disconnected
+[05Dec2024 06:21:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 left the game
+[05Dec2024 06:21:45.814] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[05Dec2024 06:21:45.814] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[05Dec2024 06:21:45.815] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[05Dec2024 06:21:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 06:21:57.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[05Dec2024 06:21:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 06:21:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 06:21:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 06:21:57.776] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[05Dec2024 06:21:58.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 06:21:58.614] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[05Dec2024 06:21:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Dec2024 06:21:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[05Dec2024 06:21:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[05Dec2024 06:21:58.787] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[05Dec2024 06:21:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 06:21:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 06:21:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[05Dec2024 06:21:58.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:21:58.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:21:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 06:21:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[05Dec2024 06:21:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 06:21:58.880] [Worker-Main83/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main83 shutdown
+[05Dec2024 06:21:58.880] [Worker-Main129/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main129 shutdown
+[05Dec2024 06:21:58.880] [Worker-Main82/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main82 shutdown
+[05Dec2024 06:21:58.882] [Server thread/DEBUG] [FluxNetworks/]: FluxNetworkData has been unloaded
+[05Dec2024 06:21:58.883] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[05Dec2024 06:21:58.883] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
