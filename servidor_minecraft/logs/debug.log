@@ -10932,3 +10932,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:08:03.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Dec2024 05:08:03.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Dec2024 05:11:09.064] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[05Dec2024 05:13:03.329] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[05Dec2024 05:13:03.331] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[05Dec2024 05:13:03.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[05Dec2024 05:13:03.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[05Dec2024 05:13:03.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:13:03.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:18:03.330] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[05Dec2024 05:18:03.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[05Dec2024 05:18:03.332] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[05Dec2024 05:18:03.333] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[05Dec2024 05:18:03.359] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[05Dec2024 05:18:03.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:18:03.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:21:27.366] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[05Dec2024 05:21:27.408] [Worker-Main9/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main58
