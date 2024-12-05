@@ -11004,3 +11004,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:50:19.869] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
 [05Dec2024 05:50:19.869] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
 [05Dec2024 05:51:13.616] [IO-Worker-92/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[05Dec2024 05:52:49.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Dec2024 05:53:03.324] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[05Dec2024 05:53:03.326] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[05Dec2024 05:53:03.326] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[05Dec2024 05:53:03.327] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[05Dec2024 05:53:03.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:53:03.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:55:10.176] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[05Dec2024 05:55:10.176] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[05Dec2024 05:55:10.357] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[05Dec2024 05:55:10.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/pathway
+[05Dec2024 05:55:10.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_fire
+[05Dec2024 05:55:10.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/terrace_duct
+[05Dec2024 05:55:10.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding
+[05Dec2024 05:55:10.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_padding_decayed
+[05Dec2024 05:55:10.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall
+[05Dec2024 05:55:10.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_decayed
+[05Dec2024 05:55:10.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner
+[05Dec2024 05:55:10.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_decayed
+[05Dec2024 05:55:10.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner
+[05Dec2024 05:55:10.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/courtyard_wall_corner_inner_decayed
+[05Dec2024 05:55:11.059] [IO-Worker-97/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[05Dec2024 05:55:11.059] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[05Dec2024 05:56:11.797] [Worker-Main81/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[05Dec2024 05:56:11.809] [Worker-Main81/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[05Dec2024 05:56:11.810] [Worker-Main81/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to mdc210c7$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[05Dec2024 05:57:23.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=2, z=5} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:58.447] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[05Dec2024 05:58:03.371] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[05Dec2024 05:58:03.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:58:03.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:00:35.885] [Worker-Main81/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line
+[05Dec2024 06:00:35.887] [Worker-Main81/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:courtyard/hedge_line_big
+[05Dec2024 06:00:35.948] [Worker-Main82/DEBUG] [ModernFix/]: Using cached upgraded version of twilightforest:feature/ruins/stone_circle
+[05Dec2024 06:01:31.387] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[05Dec2024 06:01:31.400] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[05Dec2024 06:02:26.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[05Dec2024 06:02:39.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery

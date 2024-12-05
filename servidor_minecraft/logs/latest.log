@@ -1589,3 +1589,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:52:48.952] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
 [05Dec2024 05:45:28.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Mayor]
 [05Dec2024 05:46:03.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[05Dec2024 05:52:49.466] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Dec2024 05:57:23.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=3, z=7} BlockPos{x=194, y=2, z=7}
+[05Dec2024 05:57:23.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=2, z=5} BlockPos{x=194, y=2, z=7}
