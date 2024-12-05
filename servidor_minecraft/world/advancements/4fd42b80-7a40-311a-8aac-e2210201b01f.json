@@ -2657,6 +2657,12 @@
     },
     "done": true
   },
+  "mca:baby_sirben_smelted": {
+    "criteria": {
+      "baby": "2024-12-05 05:45:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-11-13 16:29:34 +0000"
@@ -5758,6 +5764,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-11-13 11:13:57 +0000"
+    },
+    "done": true
+  },
+  "mca:mayor": {
+    "criteria": {
+      "baby": "2024-12-05 05:45:28 +0000"
     },
     "done": true
   },
