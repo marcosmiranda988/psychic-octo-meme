@@ -10877,3 +10877,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 08:09:51.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 08:11:52.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [06Dec2024 08:13:27.538] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[06Dec2024 08:14:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[06Dec2024 08:14:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[06Dec2024 08:14:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[06Dec2024 08:14:51.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:14:51.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:15:56.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[06Dec2024 08:17:58.132] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[06Dec2024 08:17:58.132] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[06Dec2024 08:19:51.543] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[06Dec2024 08:19:51.548] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[06Dec2024 08:19:51.550] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[06Dec2024 08:19:51.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:19:51.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:22:14.933] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[06Dec2024 08:22:33.666] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[06Dec2024 08:22:33.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/decayed
+[06Dec2024 08:22:34.005] [Worker-Main1/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[06Dec2024 08:22:34.417] [Worker-Main22/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[06Dec2024 08:22:34.418] [Worker-Main22/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to md62b892$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[06Dec2024 08:22:34.746] [Worker-Main3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[06Dec2024 08:22:34.747] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of bossominium:greehouse
+[06Dec2024 08:22:34.748] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar
+[06Dec2024 08:22:34.749] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
+[06Dec2024 08:22:34.750] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
+[06Dec2024 08:22:34.750] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
