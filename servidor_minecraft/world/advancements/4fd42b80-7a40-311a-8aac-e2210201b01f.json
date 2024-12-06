@@ -3778,6 +3778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 08:08:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/canopy_door": {
     "criteria": {
       "has_item": "2024-11-18 19:47:59 +0000"
@@ -5380,6 +5386,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-11-18 03:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-12-06 08:08:48 +0000"
     },
     "done": true
   },
