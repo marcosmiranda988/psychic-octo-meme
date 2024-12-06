@@ -10917,3 +10917,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 08:29:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 08:29:51.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 08:32:50.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved wrongly!
+[06Dec2024 08:34:51.542] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[06Dec2024 08:34:51.543] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[06Dec2024 08:34:51.543] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[06Dec2024 08:34:51.543] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[06Dec2024 08:34:51.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:34:51.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:36:56.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-178, y=65, z=112} BlockPos{x=-180, y=63, z=112}
+[06Dec2024 08:38:15.079] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[06Dec2024 08:39:51.544] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[06Dec2024 08:39:51.546] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[06Dec2024 08:39:51.546] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[06Dec2024 08:39:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[06Dec2024 08:39:51.570] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[06Dec2024 08:39:51.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:39:51.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:41:50.881] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[06Dec2024 08:41:50.882] [IO-Worker-84/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[06Dec2024 08:42:04.892] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[06Dec2024 08:43:33.247] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
