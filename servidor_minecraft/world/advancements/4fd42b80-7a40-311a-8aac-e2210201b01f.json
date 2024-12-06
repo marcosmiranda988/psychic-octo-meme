@@ -3940,6 +3940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-06 17:14:26 +0000"
+    },
+    "done": true
+  },
   "mekanismgenerators:heat_generator": {
     "criteria": {
       "heat_generator": "2024-11-18 22:18:37 +0000"
@@ -4775,6 +4781,7 @@
       "sweet_berries": "2024-11-24 23:42:19 +0000",
       "baked_potato": "2024-11-18 03:01:50 +0000",
       "apple": "2024-11-13 11:12:39 +0000",
+      "potato": "2024-12-06 17:17:58 +0000",
       "bread": "2024-11-13 16:24:43 +0000",
       "golden_apple": "2024-11-17 20:37:16 +0000",
       "carrot": "2024-11-18 03:34:34 +0000"
