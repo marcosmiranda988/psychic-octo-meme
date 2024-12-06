@@ -539,12 +539,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
@@ -797,12 +791,6 @@
       "has_planks": "2024-11-13 11:10:17 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "crabbersdelight:recipes/misc/bucket_of_clam_chum": {
     "criteria": {
@@ -1079,12 +1067,6 @@
       "has_gold_ingot": "2024-11-14 22:06:01 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "twilightforest:recipes/twilightforest/wood/twilight_oak_from_wood_planks": {
     "criteria": {
@@ -2291,12 +2273,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-11-13 11:11:49 +0000"
@@ -2400,7 +2376,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
+      "requirement": "2024-12-06 07:39:51 +0000"
     },
     "done": false
   },
@@ -2861,12 +2837,6 @@
       "has_andesite": "2024-11-18 04:52:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_shield": {
     "criteria": {
@@ -3892,6 +3862,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 07:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-04 08:29:24 +0000"
@@ -4271,12 +4247,6 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
@@ -4341,12 +4311,6 @@
       "coded_trigger": "2024-11-19 21:43:52 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
@@ -4569,12 +4533,6 @@
       "has_wheat": "2024-11-17 17:45:24 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -5087,12 +5045,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2024-11-13 11:10:35 +0000"
@@ -5102,6 +5054,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-11-17 18:44:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 07:36:28 +0000"
     },
     "done": true
   },
@@ -5833,12 +5791,6 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-11-13 11:10:17 +0000"
@@ -5874,12 +5826,6 @@
       "has_iron_ingot": "2024-11-14 21:57:07 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-05 06:21:04 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/farmersdelight/golden_knife": {
     "criteria": {
