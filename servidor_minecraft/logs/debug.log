@@ -10902,3 +10902,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 08:22:34.749] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
 [06Dec2024 08:22:34.750] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
 [06Dec2024 08:22:34.750] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
+[06Dec2024 08:24:50.641] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[06Dec2024 08:24:51.544] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[06Dec2024 08:24:51.544] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[06Dec2024 08:24:51.545] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[06Dec2024 08:24:51.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:24:51.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:27:30.726] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[06Dec2024 08:27:30.726] [IO-Worker-69/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[06Dec2024 08:29:51.545] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[06Dec2024 08:29:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[06Dec2024 08:29:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[06Dec2024 08:29:51.547] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[06Dec2024 08:29:51.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 08:29:51.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 08:32:50.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved wrongly!
