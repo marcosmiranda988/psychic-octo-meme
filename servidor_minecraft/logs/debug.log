@@ -10874,3 +10874,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Dec2024 17:32:42.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 17:32:42.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 17:37:05.023] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[06Dec2024 17:37:42.533] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[06Dec2024 17:37:42.534] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[06Dec2024 17:37:42.534] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[06Dec2024 17:37:42.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:37:42.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:41:00.321] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[06Dec2024 17:41:00.322] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[06Dec2024 17:42:06.792] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[06Dec2024 17:42:16.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/decayed
+[06Dec2024 17:42:16.305] [Worker-Main2/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[06Dec2024 17:42:16.870] [Worker-Main9/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[06Dec2024 17:42:16.871] [Worker-Main9/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to md197105$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[06Dec2024 17:42:17.286] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of bossominium:greehouse
+[06Dec2024 17:42:17.287] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_3
+[06Dec2024 17:42:17.288] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_2
+[06Dec2024 17:42:17.289] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar_1
+[06Dec2024 17:42:17.290] [Worker-Main2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_unleashed:grave_pillar
+[06Dec2024 17:42:17.291] [Worker-Main2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[06Dec2024 17:42:42.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 17:42:42.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 17:45:56.415] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
