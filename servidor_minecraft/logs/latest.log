@@ -16559,3 +16559,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 12:58:02.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [07Dec2024 13:00:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Fortuitous Militia]
 [07Dec2024 13:02:48.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Is this... blood?]
+[07Dec2024 13:27:09.168] [Worker-Main41/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[07Dec2024 13:27:11.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47352, l='ServerLevel[world]', x=-4527.50, y=52.00, z=-1020.50]
+[07Dec2024 13:27:18.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[07Dec2024 13:27:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Jennifer Dumped Me]
+[07Dec2024 13:28:08.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind

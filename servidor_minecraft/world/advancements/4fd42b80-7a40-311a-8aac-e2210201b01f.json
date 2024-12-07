@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:23:40 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2024-12-07 13:02:48 +0000"
@@ -813,6 +819,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-11-17 20:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-07 13:23:37 +0000"
     },
     "done": true
   },
@@ -2310,6 +2322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-07 13:23:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-13 11:08:49 +0000"
@@ -2615,6 +2633,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-11-25 00:41:28 +0000"
@@ -2817,6 +2841,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-11-25 00:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-07 13:23:37 +0000"
     },
     "done": true
   },
@@ -4301,6 +4331,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/crabbersdelight/salmon_barrel": {
+    "criteria": {
+      "has_cod": "2024-12-07 13:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2024-12-06 17:14:26 +0000"
@@ -5344,6 +5380,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-07 13:23:37 +0000"
+    },
+    "done": true
+  },
   "upgradednetherite:recipes/essences/echo_essence": {
     "criteria": {
       "has_ghast_tear": "2024-11-18 04:04:49 +0000"
@@ -5898,6 +5940,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-06 08:08:48 +0000"
@@ -6357,6 +6405,13 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-14 21:57:58 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_cod": "2024-12-07 13:23:37 +0000",
+      "has_the_recipe": "2024-12-07 13:23:37 +0000"
     },
     "done": true
   },
