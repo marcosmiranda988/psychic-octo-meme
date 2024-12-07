@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2024-12-07 13:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-11-18 04:29:39 +0000"
@@ -1095,6 +1101,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-11-15 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2024-12-07 13:01:34 +0000"
     },
     "done": true
   },
@@ -2542,6 +2554,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-07 13:01:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2024-12-07 12:27:05 +0000"
@@ -2822,6 +2840,12 @@
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2024-11-18 22:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2024-12-07 13:01:34 +0000"
     },
     "done": true
   },
@@ -3855,9 +3879,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-07 12:58:33 +0000",
       "minecraft:skeleton": "2024-11-14 21:59:01 +0000",
       "minecraft:ghast": "2024-11-18 04:04:48 +0000",
       "minecraft:hoglin": "2024-12-07 12:14:27 +0000",
+      "minecraft:vindicator": "2024-12-07 12:57:09 +0000",
       "minecraft:spider": "2024-11-15 20:00:52 +0000",
       "minecraft:slime": "2024-12-07 12:30:43 +0000",
       "minecraft:phantom": "2024-12-07 12:30:33 +0000",
@@ -5257,6 +5283,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 13:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-25 00:07:19 +0000"
@@ -5970,6 +6002,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-07 12:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2024-12-07 13:01:34 +0000"
     },
     "done": true
   },

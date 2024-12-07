@@ -16556,3 +16556,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 12:55:13.633] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
 [07Dec2024 12:55:13.633] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
 [07Dec2024 12:56:02.592] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[07Dec2024 12:58:02.323] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[07Dec2024 13:00:34.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Fortuitous Militia]
+[07Dec2024 13:02:48.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Is this... blood?]
