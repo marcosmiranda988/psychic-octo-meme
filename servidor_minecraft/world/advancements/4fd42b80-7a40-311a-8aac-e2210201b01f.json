@@ -4254,6 +4254,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-07 13:49:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-11-13 11:12:25 +0000"
@@ -5312,6 +5318,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-07 13:52:21 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2024-11-13 11:08:49 +0000"
@@ -5345,6 +5357,12 @@
   "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_right": {
     "criteria": {
       "has_item": "2024-11-25 06:19:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-07 13:54:05 +0000"
     },
     "done": true
   },
