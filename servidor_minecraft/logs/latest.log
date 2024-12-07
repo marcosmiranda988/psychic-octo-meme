@@ -16405,3 +16405,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 12:22:29.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
 [07Dec2024 12:24:05.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Spooky Scary Skeleton]
 [07Dec2024 12:26:32.916] [Server thread/INFO] [Scaling Health/]: Blight Hoglin was killed by l1
+[07Dec2024 12:27:58.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[07Dec2024 12:28:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has completed the challenge [Serious Dedication]
+[07Dec2024 12:30:54.967] [Server thread/INFO] [Scaling Health/]: Blight Slime was killed by l1
