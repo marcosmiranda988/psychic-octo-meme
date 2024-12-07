@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_horizofin_tunid_from_smelting_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2024-12-07 13:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-11-13 16:29:34 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-11-14 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_smoking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-07 13:11:57 +0000"
     },
     "done": true
   },
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "crabbersdelight:recipes/building_blocks/tropical_fish_barrel": {
+    "criteria": {
+      "has_cod": "2024-12-07 13:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-13 16:10:08 +0000"
@@ -795,6 +813,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-11-17 20:18:21 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_grittle_flatfish_from_smoking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:12:00 +0000"
     },
     "done": true
   },
@@ -1662,6 +1686,13 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-14 21:57:58 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/crabbersdelight/tropical_fish_barrel": {
+    "criteria": {
+      "has_cod": "2024-12-07 13:11:57 +0000",
+      "has_the_recipe": "2024-12-07 13:11:57 +0000"
     },
     "done": true
   },
@@ -2698,6 +2729,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_grittle_flatfish_from_smelting_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:12:00 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2024-11-25 23:30:09 +0000"
@@ -2961,6 +2998,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-11-15 20:14:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_grittle_flatfish_from_campfire_cooking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2024-12-07 13:12:00 +0000"
     },
     "done": true
   },
@@ -3456,6 +3499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-07 13:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-11-25 00:41:28 +0000"
@@ -3898,6 +3947,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_horizofin_tunid_from_smoking_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2024-12-07 13:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-06 18:31:02 +0000"
@@ -4075,6 +4130,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-06 08:08:48 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-07 13:11:57 +0000"
     },
     "done": true
   },
@@ -4876,6 +4937,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-11-25 00:07:57 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
+    "criteria": {
+      "cooked_tropical_fish": "2024-12-07 13:11:57 +0000"
     },
     "done": true
   },
@@ -5783,6 +5850,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_horizofin_tunid_from_campfire_cooking_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2024-12-07 13:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-14 21:59:59 +0000"
@@ -6320,6 +6393,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-11-19 21:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-07 13:06:31 +0000"
     },
     "done": true
   },
