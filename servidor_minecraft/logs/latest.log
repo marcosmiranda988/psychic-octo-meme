@@ -16408,3 +16408,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 12:27:58.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [07Dec2024 12:28:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has completed the challenge [Serious Dedication]
 [07Dec2024 12:30:54.967] [Server thread/INFO] [Scaling Health/]: Blight Slime was killed by l1
+[07Dec2024 12:38:38.486] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[07Dec2024 12:39:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Traveling lightning rod]
+[07Dec2024 12:39:30.678] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=26, z=-1203}
+[07Dec2024 12:39:30.679] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=26, z=-1204}
+[07Dec2024 12:39:32.464] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-267, y=25, z=-1208}
+[07Dec2024 12:42:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has completed the challenge [Almost Unkillable]
+[07Dec2024 12:42:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 was slain by Cyclops
+[07Dec2024 12:42:04.770] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[07Dec2024 12:42:04.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[07Dec2024 12:42:04.771] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[07Dec2024 12:42:04.798] [Server thread/INFO] [tombstone/]: The player l1 has successfully been saved
+[07Dec2024 12:42:07.372] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[07Dec2024 12:42:07.372] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[07Dec2024 12:42:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [My Name is Nobody]
+[07Dec2024 12:44:13.063] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[07Dec2024 12:44:13.065] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[07Dec2024 12:44:14.276] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[07Dec2024 12:44:14.460] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[07Dec2024 12:44:14.461] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[07Dec2024 12:44:14.461] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[07Dec2024 12:44:14.461] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[07Dec2024 12:44:14.462] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[07Dec2024 12:44:14.535] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[07Dec2024 12:44:14.648] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[07Dec2024 12:44:17.815] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=26, z=-1227}
+[07Dec2024 12:44:17.882] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1245}
+[07Dec2024 12:44:17.883] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1244}
+[07Dec2024 12:44:17.883] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=26, z=-1243}
+[07Dec2024 12:44:17.976] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-1198}
+[07Dec2024 12:44:17.977] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=26, z=-1198}
+[07Dec2024 12:44:18.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! -7.990957816833543,-1.0,6.388590270795859
+[07Dec2024 12:44:18.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[07Dec2024 12:44:18.740] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[07Dec2024 12:44:18.833] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[07Dec2024 12:44:18.833] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[07Dec2024 12:44:18.833] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[07Dec2024 12:44:18.835] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-397, y=25, z=-1224}
+[07Dec2024 12:44:18.908] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[07Dec2024 12:44:18.909] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[07Dec2024 12:44:18.911] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-1202}
+[07Dec2024 12:44:18.911] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-363, y=25, z=-1209}
+[07Dec2024 12:44:19.197] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1246}
+[07Dec2024 12:44:19.197] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-341, y=26, z=-1247}
+[07Dec2024 12:44:19.198] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1246}
+[07Dec2024 12:44:19.198] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=26, z=-1247}
+[07Dec2024 12:44:19.198] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=26, z=-1241}
+[07Dec2024 12:44:19.731] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-377, y=26, z=-1247}
+[07Dec2024 12:44:20.880] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=29, z=-1205}
+[07Dec2024 12:44:22.387] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1205}
+[07Dec2024 12:44:22.387] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-243, y=26, z=-1203}
+[07Dec2024 12:44:22.387] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=26, z=-1203}
+[07Dec2024 12:44:22.706] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[07Dec2024 12:44:22.827] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[07Dec2024 12:44:22.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! -10.246187838883543,0.0,0.8671020864742047
+[07Dec2024 12:44:23.072] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-211, y=27, z=-1224}
+[07Dec2024 12:44:23.073] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=25, z=-1221}
+[07Dec2024 12:44:24.820] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-317, y=27, z=-1200}
+[07Dec2024 12:44:25.588] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-264, y=27, z=-1220}
+[07Dec2024 12:44:25.647] [Worker-Main40/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[07Dec2024 12:44:44.366] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-280, y=25, z=-1203}
+[07Dec2024 12:44:44.367] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1203}
+[07Dec2024 12:44:44.367] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-288, y=25, z=-1205}
+[07Dec2024 12:44:44.367] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-285, y=25, z=-1202}
+[07Dec2024 12:44:44.367] [Worker-Main41/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=25, z=-1200}
+[07Dec2024 12:44:46.431] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=24, z=-1209}
+[07Dec2024 12:44:46.553] [Worker-Main39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-258, y=27, z=-1223}
+[07Dec2024 12:45:54.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[07Dec2024 12:45:54.255] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[07Dec2024 12:45:54.266] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[07Dec2024 12:46:23.696] [Worker-Main41/WARN] [ModernFix/]: The namespace iceandfire contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[07Dec2024 12:46:59.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
