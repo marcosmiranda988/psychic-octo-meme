@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-11-13 11:11:13 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_chiseled_sandstone": "2024-11-18 03:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -801,6 +813,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-11-18 18:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-07 12:45:56 +0000"
     },
     "done": true
   },
@@ -1461,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-13 11:10:35 +0000"
@@ -1946,6 +1970,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-15 20:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -2572,6 +2602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2024-11-15 19:37:55 +0000"
@@ -2686,6 +2722,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-07 12:45:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-15 20:14:05 +0000"
@@ -2708,6 +2750,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-11-18 03:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -3474,6 +3522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
@@ -3526,6 +3580,12 @@
   "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
       "has_diamond_sword": "2024-11-19 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -3676,6 +3736,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-11-18 04:52:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-07 12:45:56 +0000"
     },
     "done": true
   },
@@ -3917,6 +3983,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-11-14 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -4431,6 +4503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-11-18 10:11:12 +0000"
@@ -4479,12 +4557,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-11-24 23:36:48 +0000",
       "minecraft:deep_ocean": "2024-11-18 02:44:49 +0000",
       "minecraft:sunflower_plains": "2024-11-18 03:52:39 +0000",
       "minecraft:birch_forest": "2024-12-07 12:13:58 +0000",
+      "minecraft:savanna_plateau": "2024-12-07 12:52:32 +0000",
       "minecraft:beach": "2024-11-17 21:12:54 +0000",
       "minecraft:dark_forest": "2024-11-17 21:12:34 +0000",
       "minecraft:mangrove_swamp": "2024-11-18 03:22:23 +0000",
@@ -4768,6 +4853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-11-17 17:45:24 +0000"
@@ -4783,6 +4874,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-11-17 20:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
@@ -5057,6 +5154,12 @@
       "carrot": "2024-11-18 03:34:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/twilightforest/nagastone/nagastone_stairs_right": {
     "criteria": {
@@ -5816,6 +5919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-11-25 00:07:19 +0000"
@@ -5831,6 +5940,12 @@
   "deep_dark_regrowth:ethereum_gem": {
     "criteria": {
       "ethereum_gem": "2024-11-15 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2024-12-07 12:53:28 +0000"
     },
     "done": true
   },
