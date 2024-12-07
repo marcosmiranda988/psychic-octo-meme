@@ -1611,6 +1611,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-07 13:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-14 21:40:41 +0000"
@@ -2594,6 +2600,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-19 21:30:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-07 13:31:05 +0000"
     },
     "done": true
   },
@@ -3963,6 +3975,7 @@
       "minecraft:ghast": "2024-11-18 04:04:48 +0000",
       "minecraft:hoglin": "2024-12-07 12:14:27 +0000",
       "minecraft:vindicator": "2024-12-07 12:57:09 +0000",
+      "minecraft:magma_cube": "2024-12-07 13:32:45 +0000",
       "minecraft:spider": "2024-11-15 20:00:52 +0000",
       "minecraft:slime": "2024-12-07 12:30:43 +0000",
       "minecraft:phantom": "2024-12-07 12:30:33 +0000",
@@ -4409,6 +4422,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-07 13:33:20 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-11-18 19:42:26 +0000"
@@ -4692,6 +4711,7 @@
       "minecraft:deep_ocean": "2024-11-18 02:44:49 +0000",
       "minecraft:sunflower_plains": "2024-11-18 03:52:39 +0000",
       "minecraft:birch_forest": "2024-12-07 12:13:58 +0000",
+      "minecraft:bamboo_jungle": "2024-12-07 13:30:46 +0000",
       "minecraft:savanna_plateau": "2024-12-07 12:52:32 +0000",
       "minecraft:beach": "2024-11-17 21:12:54 +0000",
       "minecraft:dark_forest": "2024-11-17 21:12:34 +0000",
@@ -5569,6 +5589,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2024-12-07 13:27:23 +0000"
     },
     "done": true
   },

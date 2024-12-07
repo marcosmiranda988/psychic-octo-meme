@@ -16564,3 +16564,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Dec2024 13:27:18.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [07Dec2024 13:27:23.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Jennifer Dumped Me]
 [07Dec2024 13:28:08.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[07Dec2024 13:30:53.622] [Worker-Main41/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-309, -49], pos: BlockPos{x=-4929, y=-27, z=-769}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 13:30:53.622] [Worker-Main41/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-309, -49], pos: BlockPos{x=-4929, y=-27, z=-770}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 13:30:53.622] [Worker-Main41/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-309, -49], pos: BlockPos{x=-4929, y=-27, z=-771}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 13:30:53.623] [Worker-Main41/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-309, -48], pos: BlockPos{x=-4929, y=-24, z=-767}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / deep_dark_regrowth:ancient_fossil]
+[07Dec2024 13:30:57.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[07Dec2024 13:32:52.694] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[07Dec2024 13:37:28.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Tie me to the Mast]
+[07Dec2024 13:38:10.170] [Worker-Main40/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
