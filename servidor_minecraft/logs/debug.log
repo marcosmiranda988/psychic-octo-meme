@@ -10828,3 +10828,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 08:35:05.267] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
 [09Dec2024 08:35:07.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-314, y=113, z=-41} BlockPos{x=-314, y=112, z=-42}
 [09Dec2024 08:35:13.119] [IO-Worker-11/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[09Dec2024 08:35:52.899] [Worker-Main2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-517, y=-3, z=-257} at Chest with:minecraft:chests/simple_dungeon
+[09Dec2024 08:36:13.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[09Dec2024 08:36:52.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 08:36:52.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 08:37:55.707] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[09Dec2024 08:37:55.713] [IO-Worker-17/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[09Dec2024 08:37:55.713] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[09Dec2024 08:40:53.773] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[09Dec2024 08:40:53.778] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[09Dec2024 08:41:19.158] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[09Dec2024 08:41:52.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 08:41:52.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 08:43:16.053] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[09Dec2024 08:43:37.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
