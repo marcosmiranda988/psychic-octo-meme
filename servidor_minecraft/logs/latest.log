@@ -1591,3 +1591,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 08:52:32.748] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
 [09Dec2024 08:52:35.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
 [09Dec2024 08:52:35.422] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[09Dec2024 09:02:26.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/content/transporter/TransporterStack$Path
+[09Dec2024 09:02:48.149] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by l1
+[09Dec2024 09:02:54.054] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[09Dec2024 09:02:54.055] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[09Dec2024 09:03:35.757] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by l1
+[09Dec2024 09:03:37.698] [Server thread/INFO] [Scaling Health/]: Blight Corpse Maggot was killed by l1
+[09Dec2024 09:04:05.689] [Server thread/INFO] [Scaling Health/]: Blight Haunter was killed by l1
+[09Dec2024 09:05:03.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
