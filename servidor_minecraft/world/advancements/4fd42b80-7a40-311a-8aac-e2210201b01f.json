@@ -1411,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-09 09:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-11-14 22:12:13 +0000"
@@ -1898,6 +1904,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-11-18 03:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-09 09:31:24 +0000"
     },
     "done": true
   },
