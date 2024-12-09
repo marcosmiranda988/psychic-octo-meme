@@ -1631,3 +1631,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 09:32:53.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=105, z=46} BlockPos{x=-291, y=104, z=47}
 [09Dec2024 09:32:53.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-291, y=105, z=46} BlockPos{x=-291, y=104, z=47}
 [09Dec2024 09:35:16.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=115, z=30} BlockPos{x=-326, y=116, z=31}
+[09Dec2024 09:36:39.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-303, y=113, z=42} BlockPos{x=-324, y=116, z=31}
+[09Dec2024 09:38:44.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-309, y=108, z=23} BlockPos{x=-310, y=108, z=23}
+[09Dec2024 09:41:17.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=105, z=-76} BlockPos{x=-269, y=104, z=-75}
