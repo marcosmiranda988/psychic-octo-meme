@@ -1599,3 +1599,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 09:03:37.698] [Server thread/INFO] [Scaling Health/]: Blight Corpse Maggot was killed by l1
 [09Dec2024 09:04:05.689] [Server thread/INFO] [Scaling Health/]: Blight Haunter was killed by l1
 [09Dec2024 09:05:03.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[09Dec2024 09:06:21.622] [Worker-Main56/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09Dec2024 09:06:21.867] [Worker-Main56/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[09Dec2024 09:16:06.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[09Dec2024 09:16:06.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult

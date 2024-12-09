@@ -10897,3 +10897,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 09:03:37.698] [Server thread/INFO] [Scaling Health/]: Blight Corpse Maggot was killed by l1
 [09Dec2024 09:04:05.689] [Server thread/INFO] [Scaling Health/]: Blight Haunter was killed by l1
 [09Dec2024 09:05:03.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[09Dec2024 09:06:18.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main54
+[09Dec2024 09:06:18.343] [Worker-Main54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main55
+[09Dec2024 09:06:18.344] [Worker-Main54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main56
+[09Dec2024 09:06:19.856] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[09Dec2024 09:06:19.857] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[09Dec2024 09:06:19.859] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[09Dec2024 09:06:19.881] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[09Dec2024 09:06:20.066] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[09Dec2024 09:06:20.746] [Worker-Main55/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[09Dec2024 09:06:21.622] [Worker-Main56/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[09Dec2024 09:06:21.867] [Worker-Main56/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[09Dec2024 09:06:52.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 09:06:52.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 09:09:26.851] [Worker-Main55/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main55 shutdown
+[09Dec2024 09:09:32.892] [Worker-Main54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main62
+[09Dec2024 09:11:26.444] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[09Dec2024 09:11:26.444] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[09Dec2024 09:11:52.170] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[09Dec2024 09:11:52.171] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[09Dec2024 09:11:52.171] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[09Dec2024 09:11:52.172] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[09Dec2024 09:11:52.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 09:11:52.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 09:12:14.799] [Worker-Main56/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main56 shutdown
+[09Dec2024 09:12:35.642] [Worker-Main54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main69
+[09Dec2024 09:13:13.479] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[09Dec2024 09:14:20.454] [Worker-Main69/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main69 shutdown
+[09Dec2024 09:14:24.546] [Worker-Main62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main71
+[09Dec2024 09:16:06.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[09Dec2024 09:16:06.067] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[09Dec2024 09:16:16.768] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
