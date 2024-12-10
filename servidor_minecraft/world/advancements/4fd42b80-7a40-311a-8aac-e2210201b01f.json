@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/brewing/common/slime/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 09:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-11-15 20:09:31 +0000"
@@ -1209,6 +1215,12 @@
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2024-11-18 03:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 09:48:29 +0000"
     },
     "done": true
   },
@@ -2394,6 +2406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-10 09:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-13 16:24:36 +0000"
@@ -3469,6 +3487,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/glass/vanilla/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-10 09:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-11-14 21:57:58 +0000"
@@ -4009,6 +4033,7 @@
       "minecraft:cave_spider": "2024-11-17 19:30:43 +0000",
       "minecraft:silverfish": "2024-11-15 20:00:04 +0000",
       "minecraft:stray": "2024-11-17 20:11:50 +0000",
+      "minecraft:enderman": "2024-12-10 09:45:43 +0000",
       "minecraft:vex": "2024-11-17 21:13:46 +0000",
       "minecraft:zombie": "2024-11-17 17:40:15 +0000"
     },
@@ -4023,6 +4048,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-06 18:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 09:48:29 +0000"
     },
     "done": true
   },
@@ -5034,6 +5065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-10 09:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-11-25 00:07:57 +0000"
@@ -5782,6 +5819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-10 09:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-11-13 16:10:06 +0000"
@@ -6358,6 +6401,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-10 09:49:07 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2024-11-17 19:45:29 +0000"
@@ -6445,6 +6494,12 @@
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2024-11-15 20:14:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2024-12-10 09:49:07 +0000"
     },
     "done": true
   },

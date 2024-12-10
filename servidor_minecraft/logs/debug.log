@@ -10816,3 +10816,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 09:47:46.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
 [10Dec2024 09:47:46.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [10Dec2024 09:47:52.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[10Dec2024 09:48:59.511] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-16
+[10Dec2024 09:48:59.511] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
+[10Dec2024 09:48:59.512] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[10Dec2024 09:48:59.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[10Dec2024 09:48:59.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 09:48:59.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 09:49:50.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumError
+[10Dec2024 09:49:50.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumMode
+[10Dec2024 09:49:50.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumBookStatus
+[10Dec2024 09:50:40.075] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[10Dec2024 09:52:17.582] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[10Dec2024 09:52:35.524] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[10Dec2024 09:52:36.042] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main22
+[10Dec2024 09:53:09.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[10Dec2024 09:53:11.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[10Dec2024 09:53:11.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
+[10Dec2024 09:53:11.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[10Dec2024 09:53:11.617] [IO-Worker-20/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[10Dec2024 09:53:11.618] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[10Dec2024 09:53:11.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[10Dec2024 09:53:16.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[10Dec2024 09:53:16.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[10Dec2024 09:53:59.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 09:53:59.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 09:54:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made l1 a server operator
+[10Dec2024 09:54:12.560] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[10Dec2024 09:54:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:54:32.523] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[10Dec2024 09:54:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 09:55:16.013] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main25
+[10Dec2024 09:55:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:56:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 09:56:17.776] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[10Dec2024 09:56:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:57:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 09:57:17.776] [Worker-Main22/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main22 shutdown
+[10Dec2024 09:57:22.364] [Worker-Main25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main26
+[10Dec2024 09:57:22.364] [Worker-Main25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main27
+[10Dec2024 09:58:14.543] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28

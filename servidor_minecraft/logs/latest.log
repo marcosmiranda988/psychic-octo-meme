@@ -1581,3 +1581,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 09:47:46.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
 [10Dec2024 09:47:46.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [10Dec2024 09:47:52.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[10Dec2024 09:49:50.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumError
+[10Dec2024 09:49:50.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumMode
+[10Dec2024 09:49:50.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumBookStatus
+[10Dec2024 09:53:09.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[10Dec2024 09:53:11.552] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/lib/transmitter/ConnectionType
+[10Dec2024 09:53:11.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[10Dec2024 09:53:16.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType
+[10Dec2024 09:53:16.878] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/block/states/TransmitterType$Size
+[10Dec2024 09:54:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made l1 a server operator
+[10Dec2024 09:54:12.560] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[10Dec2024 09:54:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:54:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 09:55:49.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:56:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 09:56:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
+[10Dec2024 09:57:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
