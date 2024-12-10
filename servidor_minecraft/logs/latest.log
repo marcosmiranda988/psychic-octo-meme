@@ -1597,3 +1597,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 09:56:11.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
 [10Dec2024 09:56:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Creative Mode]
 [10Dec2024 09:57:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [l1: Set own game mode to Survival Mode]
+[10Dec2024 10:00:14.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/content/transporter/TransporterStack$Path
+[10Dec2024 10:00:27.178] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by l1
+[10Dec2024 10:00:35.633] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by l1
+[10Dec2024 10:03:26.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 lost connection: Disconnected
+[10Dec2024 10:03:26.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 left the game
+[10Dec2024 10:03:26.841] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 10:03:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 10:03:33.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 10:03:35.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 10:03:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Dec2024 10:03:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 10:03:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[10Dec2024 10:03:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[10Dec2024 10:03:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 10:03:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[10Dec2024 10:03:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

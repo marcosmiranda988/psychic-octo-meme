@@ -10855,3 +10855,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 09:57:22.364] [Worker-Main25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main26
 [10Dec2024 09:57:22.364] [Worker-Main25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main27
 [10Dec2024 09:58:14.543] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[10Dec2024 09:58:59.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[10Dec2024 09:58:59.498] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[10Dec2024 09:58:59.538] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[10Dec2024 09:58:59.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 09:58:59.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 10:00:01.727] [Worker-Main25/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main25 shutdown
+[10Dec2024 10:00:14.778] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/content/transporter/TransporterStack$Path
+[10Dec2024 10:00:27.178] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by l1
+[10Dec2024 10:00:35.633] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by l1
+[10Dec2024 10:01:56.073] [Worker-Main27/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main27 shutdown
+[10Dec2024 10:02:01.850] [Worker-Main26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main32
+[10Dec2024 10:02:01.850] [Worker-Main26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main33
+[10Dec2024 10:02:01.851] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[10Dec2024 10:02:01.852] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[10Dec2024 10:02:02.101] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[10Dec2024 10:02:02.250] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[10Dec2024 10:02:02.264] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[10Dec2024 10:02:02.265] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[10Dec2024 10:03:26.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 lost connection: Disconnected
+[10Dec2024 10:03:26.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 left the game
+[10Dec2024 10:03:26.841] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 10:03:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Dec2024 10:03:33.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Dec2024 10:03:33.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Dec2024 10:03:35.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Dec2024 10:03:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Dec2024 10:03:35.561] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[10Dec2024 10:03:35.562] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[10Dec2024 10:03:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Dec2024 10:03:35.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[10Dec2024 10:03:35.563] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[10Dec2024 10:03:35.564] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[10Dec2024 10:03:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[10Dec2024 10:03:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Dec2024 10:03:35.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/l2library:maze
+[10Dec2024 10:03:35.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 10:03:35.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 10:03:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Dec2024 10:03:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (maze): All chunks are saved
+[10Dec2024 10:03:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Dec2024 10:03:35.685] [Worker-Main33/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main33 shutdown
+[10Dec2024 10:03:35.685] [Worker-Main32/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main32 shutdown
+[10Dec2024 10:03:35.685] [Worker-Main26/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main26 shutdown
+[10Dec2024 10:03:35.686] [Server thread/DEBUG] [FluxNetworks/]: FluxNetworkData has been unloaded
+[10Dec2024 10:03:35.686] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[10Dec2024 10:03:35.686] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
