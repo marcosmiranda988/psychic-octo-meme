@@ -2477,7 +2477,9 @@
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
       "waste": "2024-12-11 15:30:32 +0000",
-      "junk": "2024-12-11 15:32:06 +0000"
+      "junk": "2024-12-11 15:32:06 +0000",
+      "treasure": "2024-12-11 15:34:48 +0000",
+      "office": "2024-12-11 15:36:44 +0000"
     },
     "done": false
   },
@@ -3017,6 +3019,12 @@
   "twilightforest:recipes/twilightforest/wood/spruce_banister": {
     "criteria": {
       "has_item": "2024-12-07 11:53:40 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2024-12-11 15:43:35 +0000"
     },
     "done": true
   },
@@ -3871,6 +3879,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-13 11:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-11 15:34:53 +0000"
     },
     "done": true
   },
@@ -5826,6 +5840,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-11 15:42:36 +0000",
       "sweet_berries": "2024-11-24 23:42:19 +0000",
       "baked_potato": "2024-11-18 03:01:50 +0000",
       "apple": "2024-11-13 11:12:39 +0000",
