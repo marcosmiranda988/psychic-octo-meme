@@ -11839,3 +11839,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 15:27:08.905] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
 [11Dec2024 15:27:14.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/22496, l='ServerLevel[world]', x=72.30, y=35.00, z=1855.30] died: Pipeline Sentry was slain by l1
 [11Dec2024 15:27:26.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/22469, l='ServerLevel[world]', x=72.50, y=35.69, z=1852.33] died: Pipeline Sentry was slain by l1
+[11Dec2024 15:28:40.550] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[11Dec2024 15:28:40.551] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[11Dec2024 15:28:40.551] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[11Dec2024 15:28:40.551] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[11Dec2024 15:28:40.551] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[11Dec2024 15:28:40.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:28:40.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:29:12.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/22505, l='ServerLevel[world]', x=116.70, y=64.00, z=1903.30] died: Pipeline Sentry was slain by l1
+[11Dec2024 15:29:19.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/22481, l='ServerLevel[world]', x=115.06, y=63.81, z=1896.04] died: Pipeline Sentry was slain by l1
+[11Dec2024 15:30:12.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[11Dec2024 15:30:32.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Pocket Edition Alpha]
+[11Dec2024 15:31:11.222] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[11Dec2024 15:31:11.223] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[11Dec2024 15:31:54.034] [Server thread/INFO] [Scaling Health/]: Blight Ghast Sentry was killed by l1
+[11Dec2024 15:31:54.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/24575, l='ServerLevel[world]', x=37.00, y=46.00, z=2072.00] died: Ghast Sentry was slain by l1
+[11Dec2024 15:32:40.493] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[11Dec2024 15:32:40.493] [IO-Worker-127/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[11Dec2024 15:32:44.573] [IO-Worker-130/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[11Dec2024 15:33:02.105] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[11Dec2024 15:33:42.649] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[11Dec2024 15:33:42.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:33:42.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:35:07.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved wrongly! 0.32812452126927383
+[11Dec2024 15:35:39.441] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[11Dec2024 15:37:14.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Radiation Director'/24582, l='ServerLevel[world]', x=91.57, y=39.00, z=2102.48] died: Radiation Director was slain by l1

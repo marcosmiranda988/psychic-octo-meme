@@ -1429,6 +1429,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:waste": "2024-12-11 15:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-18 18:50:58 +0000"
@@ -1832,6 +1838,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-11-13 11:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-11 15:30:35 +0000"
     },
     "done": true
   },
@@ -2378,6 +2390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-11 15:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-11-13 11:10:26 +0000"
@@ -2455,6 +2473,13 @@
       "has_item": "2024-11-15 20:22:29 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2024-12-11 15:30:32 +0000",
+      "junk": "2024-12-11 15:32:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
@@ -2974,6 +2999,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2024-11-18 02:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-11 15:32:08 +0000"
     },
     "done": true
   },
@@ -6788,6 +6819,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-11-13 11:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-11 15:30:35 +0000"
     },
     "done": true
   },
