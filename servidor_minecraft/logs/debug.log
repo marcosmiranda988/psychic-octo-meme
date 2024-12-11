@@ -10897,3 +10897,206 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:36:48.632] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
 [11Dec2024 14:36:48.632] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
 [11Dec2024 14:36:48.633] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[11Dec2024 14:38:00.398] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[11Dec2024 14:38:00.411] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[11Dec2024 14:38:00.421] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[11Dec2024 14:38:00.455] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[11Dec2024 14:38:00.588] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[11Dec2024 14:38:00.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:38:00.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:39:40.487] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[11Dec2024 14:39:40.678] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[11Dec2024 14:39:40.678] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[11Dec2024 14:39:40.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[11Dec2024 14:39:40.823] [Server thread/WARN] [ModernFix/]: The namespace incendium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 14:39:40.824] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/inter1 is being run through DFU (hash c0dac385bfefe1aff29a23ac6519563c7fa64def0407ced90312d03c32bf5696), this will cause launch time delays
+[11Dec2024 14:39:42.016] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/inter2 is being run through DFU (hash dbd90e9be17148afbb99458cd6a96046034aacc32d6361a12a7d9f0784e6811e), this will cause launch time delays
+[11Dec2024 14:39:42.054] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road10 is being run through DFU (hash b6f6a1284ee2fa2023f088db88cfb6bb086af2ff308e14b481daf24df4db9b91), this will cause launch time delays
+[11Dec2024 14:39:42.063] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road9 is being run through DFU (hash 742ad9715da6f5bdc5037355dc58e12eeb5eb5999a46dff47db34d87e64c0ac1), this will cause launch time delays
+[11Dec2024 14:39:42.073] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack1 is being run through DFU (hash f1a46fd488bc202c60f845f7346e0504c839cd3ecc5eb997e7bc7569fa775f36), this will cause launch time delays
+[11Dec2024 14:39:42.522] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/stilt1 is being run through DFU (hash 524f4ad0fea53c4654f82d78f6f6afce5f221a35a4ab7867422bfa5f9ab7e82e), this will cause launch time delays
+[11Dec2024 14:39:42.527] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small6 is being run through DFU (hash 1b7eae442fad64b10ebd62c4860b20fcd85d82f8857a27501f28fcee938200ce), this will cause launch time delays
+[11Dec2024 14:39:42.551] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small4 is being run through DFU (hash 7f010e831e686382453b7f8fc4766cc50fc7528c93badb36d43cb2e7bd9635b8), this will cause launch time delays
+[11Dec2024 14:39:42.567] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large6 is being run through DFU (hash 19f7f221314129807cbbfd858447edf55b9a2083dd85f494cf0724f47c0ac127), this will cause launch time delays
+[11Dec2024 14:39:42.583] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road2 is being run through DFU (hash 08230e4a40aaeaaadebe8d95f27e402afb94e41b67e648b03f104fd06971594d), this will cause launch time delays
+[11Dec2024 14:39:42.597] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large5 is being run through DFU (hash 8b1da4c4eebcf63a587370deb8379842aabfc60bfedb98d796b51c04d8de6b6b), this will cause launch time delays
+[11Dec2024 14:39:42.644] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_worker1 is being run through DFU (hash acbf21e5625531a22a3b1c3a78690968c638fbfcd9ad121d0aaee39de9145747), this will cause launch time delays
+[11Dec2024 14:39:42.655] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large1 is being run through DFU (hash 63f4ae85b2c6e70a05d041dc2b7b1f7e26b185715ae84351845558ebdb9085f5), this will cause launch time delays
+[11Dec2024 14:39:42.692] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_lumberjack2 is being run through DFU (hash 459f2d80d75933aae905e4a42f067f667b627114f1cb30390ac491698e7a098f), this will cause launch time delays
+[11Dec2024 14:39:42.699] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_armored is being run through DFU (hash 9d11d79f2772586dbd23deb56c7273315fac21255abd73a9315d506e44542be9), this will cause launch time delays
+[11Dec2024 14:39:42.706] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road11 is being run through DFU (hash 6bc5b5cbfbfa85a40396bb3d45f1057bcbc37a90ebd6626790424a8f28dd1a0f), this will cause launch time delays
+[11Dec2024 14:39:42.709] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road6 is being run through DFU (hash 7d33233f18e9b904e29c20761043fdf1b9391fad107d731158d9b0815cf838b3), this will cause launch time delays
+[11Dec2024 14:39:42.719] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road1 is being run through DFU (hash f13f328d15d39a7fc675c21b75011934a095f8eb03bdd0bc9193210b289e683a), this will cause launch time delays
+[11Dec2024 14:39:42.729] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small3 is being run through DFU (hash cb52127773a55244a6e439d8726e1659715cb2a7ac1aab45e259115347dfc9de), this will cause launch time delays
+[11Dec2024 14:39:42.809] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road5 is being run through DFU (hash 669c73b09f0252ad9701658cef54c22d070796d59efb65a35c220f6e9f400b7d), this will cause launch time delays
+[11Dec2024 14:39:42.813] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_alchemist1 is being run through DFU (hash f0c45ddbc4a272a3afa20f599bc5cc14cb9669d164fe541e4cb9cef047631120), this will cause launch time delays
+[11Dec2024 14:39:42.819] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large3 is being run through DFU (hash 701a53b6b3775b907a633abda11d68890a019ffd4b82f83a38dd3851049504d3), this will cause launch time delays
+[11Dec2024 14:39:42.834] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road3 is being run through DFU (hash 552544b575744bcd3a04f32a9e9a8313a4b27a4179675c4452b2a3fd6abc6169), this will cause launch time delays
+[11Dec2024 14:39:42.837] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road7 is being run through DFU (hash fa094bb311754ff85b79e4a0daf5507f980d9f2dd154091b38efaf6108848718), this will cause launch time delays
+[11Dec2024 14:39:42.841] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large4 is being run through DFU (hash 96b0cf73477d63fe4450c1fab6840077df9fde3d20b033622bd0fa8a15ca8be0), this will cause launch time delays
+[11Dec2024 14:39:42.864] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road8 is being run through DFU (hash 7898de42fa9f98db5b1b3123ffb8ba70cb37e9a597dbe7efe1b9b140363ed632), this will cause launch time delays
+[11Dec2024 14:39:42.869] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/road4 is being run through DFU (hash 009ce0ce4d71603f10f2a50f79e721e98ff4a13dc29dee3fc53e2444bc6294f3), this will cause launch time delays
+[11Dec2024 14:39:42.879] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/inter3 is being run through DFU (hash f9f91aba90f0ea2fcac09e88362a16f99ac8b78e2b687307904128afddf17ac0), this will cause launch time delays
+[11Dec2024 14:39:42.890] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small2 is being run through DFU (hash 57636a4ae0f90daf4e0f1868f6ee49888d568de71b4a01bb11d6e053a04f6caf), this will cause launch time delays
+[11Dec2024 14:39:42.910] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small5 is being run through DFU (hash 6fa8406e13535a87bdea9a37c14c2a08d8580519e3b1f6fbd49088da4c7a90d2), this will cause launch time delays
+[11Dec2024 14:39:42.924] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/small1 is being run through DFU (hash 66f951b108e59dd5a5b0379a5c63ecc7c1c01d224932c5914ab7b2dd710a7708), this will cause launch time delays
+[11Dec2024 14:39:42.941] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/mobs/piglin_miner1 is being run through DFU (hash 51eb1dd88ef2e46d016851d648d796300012c830ce8f909e3116ad61162a416b), this will cause launch time delays
+[11Dec2024 14:39:42.949] [Server thread/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large8 is being run through DFU (hash a6451d2b4e31b57097940c37bcb7e1dc0f46c59919e1a22f772f2f9998a5c8ba), this will cause launch time delays
+[11Dec2024 14:39:42.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[11Dec2024 14:39:43.050] [Server thread/WARN] [ModernFix/]: The namespace cataclysm contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 14:39:43.051] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith2 is being run through DFU (hash eec5fcbc88c7757a9d14fea20520fefc27e2f54c11daf642420c46ad6d53f746), this will cause launch time delays
+[11Dec2024 14:39:43.197] [Server thread/DEBUG] [ModernFix/]: Structure cataclysm:soulblacksmith is being run through DFU (hash f73241e141a2b7af2130785c8c527782dc67664a95f831cef11e7de72b81ad5e), this will cause launch time delays
+[11Dec2024 14:39:43.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[11Dec2024 14:39:43.986] [Worker-Main3/DEBUG] [mixin/]: Mixing ChainedBlockSourceMixin from noisium.mixins.json into net.minecraft.world.level.levelgen.material.MaterialRuleList
+[11Dec2024 14:39:44.200] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_accum_quad
+[11Dec2024 14:39:45.015] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[11Dec2024 14:39:45.939] [Worker-Main43/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[11Dec2024 14:39:46.000] [Worker-Main42/WARN] [ModernFix/]: The namespace awesomedungeonnether contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 14:39:46.001] [Worker-Main42/DEBUG] [ModernFix/]: Structure awesomedungeonnether:nth_center_square is being run through DFU (hash 54b140a2f64c0ea0bfa7d4a6005cf669948a9e782b9cda5acb63e82acc53a34f), this will cause launch time delays
+[11Dec2024 14:39:46.776] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_giant_crimson_tree
+[11Dec2024 14:39:46.781] [Worker-Main3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[11Dec2024 14:39:47.066] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[11Dec2024 14:39:47.108] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[11Dec2024 14:39:47.117] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[11Dec2024 14:39:47.144] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden2 is being run through DFU (hash d39f5322f37d7fc1ff5d6abb4347cbc2456dda1893c844ed034a8f1697b32613), this will cause launch time delays
+[11Dec2024 14:39:47.175] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large2 is being run through DFU (hash cbb6b5af60f549beb687c353e69002514043409b4ada9be952d614a3ba4b572e), this will cause launch time delays
+[11Dec2024 14:39:47.197] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/inter5 is being run through DFU (hash 78ec5651716cf4080a3226cc45c77cc2e959a5370bd4ec83f4b134f591401b6e), this will cause launch time delays
+[11Dec2024 14:39:47.209] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/garden1 is being run through DFU (hash aa641d2fb631fcc4c495ca6ee3b007605a6d9b46bf31144161dc1dd09af1cdb6), this will cause launch time delays
+[11Dec2024 14:39:47.224] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/inter6 is being run through DFU (hash b01cb11a48697c9199130e3700bea7676d52a89adcb7cf0ee30c74b403648fb5), this will cause launch time delays
+[11Dec2024 14:39:47.238] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/houses/large7 is being run through DFU (hash 1e6640e159dbc9d91f0f550a0b876e2916bae14b408d65e34e54db073acf8253), this will cause launch time delays
+[11Dec2024 14:39:47.287] [Worker-Main3/DEBUG] [ModernFix/]: Structure incendium:cvill/inter4 is being run through DFU (hash 98b7bc8da1ef52a28017f981c7fc6687c9a832fb2366ebad510907cb84056d00), this will cause launch time delays
+[11Dec2024 14:39:48.092] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pyramid
+[11Dec2024 14:39:48.149] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_palace
+[11Dec2024 14:39:48.212] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_hardcastle
+[11Dec2024 14:39:48.314] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_castle_evoker
+[11Dec2024 14:39:48.368] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonend:end_pill
+[11Dec2024 14:39:48.544] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_blaze_tower
+[11Dec2024 14:39:49.819] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[11Dec2024 14:39:49.851] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[11Dec2024 14:39:52.027] [Worker-Main3/DEBUG] [mixin/]: Mixing SurfaceRulesContextMixin from blueprint.mixins.json into net.minecraft.world.level.levelgen.SurfaceRules$Context
+[11Dec2024 14:39:52.031] [Worker-Main3/DEBUG] [mixin/]: Renaming synthetic method lambda$updateModdedBiomeSlice$0(Lcom/teamabnormals/blueprint/common/world/modification/ModdedBiomeSource;III)Lnet/minecraft/resources/ResourceLocation; to mdf45c8b$lambda$updateModdedBiomeSlice$0$0 in blueprint.mixins.json:SurfaceRulesContextMixin
+[11Dec2024 14:39:54.437] [Worker-Main42/WARN] [ModernFix/]: The namespace stalwart_dungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 14:39:54.438] [Worker-Main42/DEBUG] [ModernFix/]: Structure stalwart_dungeons:keeping_castle_spawn is being run through DFU (hash 77243077166184eaf3faf46f34d7534abc6cab5de30b6744dd9f5288219facfc), this will cause launch time delays
+[11Dec2024 14:39:54.442] [Worker-Main42/WARN] [ModernFix/]: The namespace bossominium contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[11Dec2024 14:39:54.443] [Worker-Main42/DEBUG] [ModernFix/]: Structure bossominium:netherpodwolf is being run through DFU (hash 2e41b360634bfe34a036599563a9b90ec519f33e7892ff114e752a88309d93a3), this will cause launch time delays
+[11Dec2024 14:39:57.453] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[11Dec2024 14:39:57.496] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[11Dec2024 14:40:48.823] [Worker-Main43/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior2
+[11Dec2024 14:40:52.256] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter1 is being run through DFU (hash 7029d0b79ac41d9906a6232893961fb12996dedb30f019a1ffd25531abf7dedb), this will cause launch time delays
+[11Dec2024 14:40:52.284] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/starter2 is being run through DFU (hash ddc26bcf61e3d1abc407c7dc9be753d010c26377ab45b5b52b7ea5bdc47bd9e6), this will cause launch time delays
+[11Dec2024 14:40:52.312] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_vh is being run through DFU (hash 5bc7716d108a4761b75c39de67033a49376fbe8c13421ae494c579ae1a184346), this will cause launch time delays
+[11Dec2024 14:40:52.319] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_hv is being run through DFU (hash 0d486243a8a586a535d43f25eb1419e96d57b723ececade05cd29fa7cc061edf), this will cause launch time delays
+[11Dec2024 14:40:52.343] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_hv is being run through DFU (hash 3aec982944591826f611a9b8f41d334fac53703c65606b76fb4e516d321dda25), this will cause launch time delays
+[11Dec2024 14:40:52.355] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_v is being run through DFU (hash 9a3eebf61303d90fd4502147f865ebd0abcc670dbbdd17d08db0963749642d50), this will cause launch time delays
+[11Dec2024 14:40:52.370] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_long is being run through DFU (hash c418751d6e64a53f4015b0912a4f25dff04ef14c3506d65a52e704cac637ad2c), this will cause launch time delays
+[11Dec2024 14:40:52.454] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_4way is being run through DFU (hash e5cab7948f78a7404816897d8c76c0ce75b8c2f6e1f8747adf1e1043f5de49aa), this will cause launch time delays
+[11Dec2024 14:40:52.468] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_t is being run through DFU (hash b3b1e5cda1c75a3e163311ada74749564f36b287d2fb1993fc0dc223bb1154cf), this will cause launch time delays
+[11Dec2024 14:40:52.480] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_vh is being run through DFU (hash eb54e308a44d5a7263d4b1ad66a9d000fb19e48da20be3f841d23cdbb4f1d842), this will cause launch time delays
+[11Dec2024 14:40:52.485] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v is being run through DFU (hash ec54d9b15939fe1e6a690e369a65885538e0e20d30300025ffb2fe0c34839d65), this will cause launch time delays
+[11Dec2024 14:40:52.491] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_elbow is being run through DFU (hash 187b186afb7e113e96732f571801263d7d3d6970ae903104f8f869fa86d5f0a3), this will cause launch time delays
+[11Dec2024 14:40:52.502] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_t_hv is being run through DFU (hash dba45c8f2aefe31fd9ce43fec0d3d4881fd3450d873a1975582f9b89be4cb1e9), this will cause launch time delays
+[11Dec2024 14:40:52.508] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_tall is being run through DFU (hash 0e68aa9764aed3b45098013f517f6f8d76dc335274040037cd1d8ec14d80b5fb), this will cause launch time delays
+[11Dec2024 14:40:52.511] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/large_vh is being run through DFU (hash 1278b2a1b557f28bc4405df549546daa9f9ca30346126e17dfcee56cc8a2e14f), this will cause launch time delays
+[11Dec2024 14:40:52.537] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_s is being run through DFU (hash 47acc4579a87f16ba1077bc69e5bf5aad25a9c9ccc0d4cb1b40fe913c04a84a9), this will cause launch time delays
+[11Dec2024 14:40:52.540] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_h_end is being run through DFU (hash 761264e158448d8fd264a2b50e18b5dadf94f26f1c413077b6fe1f4740aa62ad), this will cause launch time delays
+[11Dec2024 14:40:52.543] [Server thread/DEBUG] [ModernFix/]: Structure incendium:pipeline/small_v_end is being run through DFU (hash ad3a3e70036b7ff0f5c7e9e2f3de980d7af5a2482350a9c9fb09df80893cdb25), this will cause launch time delays
+[11Dec2024 14:40:55.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[11Dec2024 14:41:00.022] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[11Dec2024 14:41:00.304] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/desert/houses/castle
+[11Dec2024 14:41:01.552] [Worker-Main43/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=104, y=46, z=281} at Chest with:minecraft:chests/bastion_treasure
+[11Dec2024 14:41:04.259] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior1
+[11Dec2024 14:41:06.741] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:41:08.399] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:41:09.943] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:41:26.749] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[11Dec2024 14:41:26.750] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[11Dec2024 14:41:26.750] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[11Dec2024 14:41:29.993] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:bunker/entrance
+[11Dec2024 14:41:32.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -10.582904089156685,0.37567333786263646,0.6877876748591234
+[11Dec2024 14:41:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -11.382605189055056,0.37248541607348784,0.754700042024524
+[11Dec2024 14:41:32.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -12.165821257031538,0.3643232907270644,0.8221157273081587
+[11Dec2024 14:41:32.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -12.932891668499096,0.35268506733190463,0.8899080037871272
+[11Dec2024 14:41:33.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[11Dec2024 14:41:33.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 11.865473549315908,0.15477040683617815,-1.090797212432193
+[11Dec2024 14:41:33.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 11.865473549315908,0.15477040683617815,-1.090797212432193
+[11Dec2024 14:41:33.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 11.865473549315908,0.15477040683617815,-1.090797212432193
+[11Dec2024 14:41:33.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 11.865473549315908,0.15477040683617815,-1.090797212432193
+[11Dec2024 14:41:33.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 11.139758368503024,0.12794053089043445,-0.9695455658636831
+[11Dec2024 14:41:33.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 10.43139816631981,0.09931542061328003,-0.8363598608070788
+[11Dec2024 14:41:33.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -6.072040287111491,-1.2629901356121778,8.339543571463395
+[11Dec2024 14:41:33.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -6.7327826074493515,-1.3321773813325137,8.83638459627494
+[11Dec2024 14:41:33.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -7.374853013638898,-1.4030059078336237,9.329889986316402
+[11Dec2024 14:41:33.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -7.9988835832594845,-1.4784171520076796,9.819662045932262
+[11Dec2024 14:41:33.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -8.60548977151636,-1.5527115845243102,10.305338151464355
+[11Dec2024 14:41:33.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -9.194514773979805,-1.6269700779102507,10.787551935235257
+[11Dec2024 14:41:33.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -9.766274330252955,-1.7002475223663325,11.266313544577486
+[11Dec2024 14:41:33.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -10.32135081694814,-1.774399860285321,11.741282925105878
+[11Dec2024 14:41:33.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -10.860198657644744,-1.8439633784936902,12.212287704247075
+[11Dec2024 14:41:34.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:34.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:34.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:34.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:34.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:34.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! 7.512166703115909,1.6257943811650932,-12.195852541089238
+[11Dec2024 14:41:36.464] [Worker-Main42/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_obsi_house
+[11Dec2024 14:41:36.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -4.101775762341987,-1.7279651565535232,-16.27238095306467
+[11Dec2024 14:41:36.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -3.7341728007763493,-1.6462336075099628,-15.377528438339255
+[11Dec2024 14:41:36.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -3.363405226465318,-1.5661142814915365,-14.508518671028725
+[11Dec2024 14:41:36.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -2.990920767878407,-1.484179054002496,-13.661523964317297
+[11Dec2024 14:41:36.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -2.6174374127469093,-1.4025011580506472,-12.835627923325433
+[11Dec2024 14:41:36.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -2.731453826682639,-1.4583487968406175,-13.251817342723854
+[11Dec2024 14:41:36.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -2.8488059218523176,-1.506956063667559,-13.654783503134212
+[11Dec2024 14:41:36.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -2.9668080713023812,-1.5525030607282275,-14.045304852754924
+[11Dec2024 14:41:36.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved too quickly! -3.0971392856745013,-1.604484996557133,-14.471499743363808
+[11Dec2024 14:41:38.977] [Worker-Main42/INFO] [com.teampotato.redirector.Redirector/]: Redirecting twilightforest/world/components/structures/courtyard/StructureMazeGenerator$WallFacing
+[11Dec2024 14:41:48.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 5.83991033765794,2.3398900279437242,8.18372857178673
+[11Dec2024 14:41:49.178] [Server thread/DEBUG] [ModernFix/]: Structure stalwart_dungeons:keeping_castle is being run through DFU (hash 3d8cf1b983e7519127432d5bf96619a94b1e0242e2316a29870ba4596cafc2cf), this will cause launch time delays
+[11Dec2024 14:42:03.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! -2.7035476871473207,-2.743200019562238,9.806859334433113
+[11Dec2024 14:42:03.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[11Dec2024 14:42:06.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! -1.0676636051553174,-9.667067244575911,4.739640373067118
+[11Dec2024 14:42:08.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 0.3364342375038234,-9.19560446710311,3.9506941200386905
+[11Dec2024 14:42:11.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 5.871497119468458,-8.850689729566085,2.09000236762364
+[11Dec2024 14:42:18.118] [Worker-Main43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:42:24.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[11Dec2024 14:42:31.264] [Server thread/INFO] [Scaling Health/]: Blight Magma Cube was killed by l1
+[11Dec2024 14:43:10.141] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[11Dec2024 14:43:13.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:43:13.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:43:18.398] [Worker-Main42/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=227, y=51, z=280} at Chest with:minecraft:chests/bastion_treasure
+[11Dec2024 14:43:38.938] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[11Dec2024 14:43:46.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has reached the goal [Piglin Pillage]
+[11Dec2024 14:43:57.882] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/8520, l='ServerLevel[world]', x=82.71, y=52.00, z=325.42] died: Village Brewer suffocated in a wall
+[11Dec2024 14:43:58.033] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/8519, l='ServerLevel[world]', x=85.89, y=52.00, z=327.64] died: Piglin Civilian suffocated in a wall
+[11Dec2024 14:43:58.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/8517, l='ServerLevel[world]', x=86.70, y=52.00, z=327.41] died: Piglin Civilian suffocated in a wall
+[11Dec2024 14:43:58.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/8518, l='ServerLevel[world]', x=82.71, y=52.00, z=325.42] died: Village Brewer suffocated in a wall
+[11Dec2024 14:43:59.132] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/8501, l='ServerLevel[world]', x=88.36, y=53.00, z=357.90] died: Piglin Civilian suffocated in a wall
+[11Dec2024 14:44:01.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/8442, l='ServerLevel[world]', x=62.60, y=58.00, z=335.60] died: Village Brewer suffocated in a wall
+[11Dec2024 14:44:08.329] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:44:23.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/8512, l='ServerLevel[world]', x=93.71, y=52.00, z=374.42] died: Village Brewer suffocated in a wall
+[11Dec2024 14:44:26.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/8504, l='ServerLevel[world]', x=93.71, y=52.00, z=374.42] died: Village Brewer suffocated in a wall
+[11Dec2024 14:45:08.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of l1) moved wrongly! 0.5176959533828267
+[11Dec2024 14:45:09.238] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[11Dec2024 14:46:06.062] [Worker-Main3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:47:14.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[11Dec2024 14:47:17.903] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[11Dec2024 14:48:13.204] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[11Dec2024 14:48:13.204] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[11Dec2024 14:48:13.205] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[11Dec2024 14:48:13.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:48:13.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:50:28.828] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[11Dec2024 14:50:28.828] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[11Dec2024 14:50:45.834] [IO-Worker-79/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[11Dec2024 14:52:57.235] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[11Dec2024 14:53:13.204] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[11Dec2024 14:53:13.205] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[11Dec2024 14:53:13.205] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[11Dec2024 14:53:13.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:53:13.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:54:39.461] [Server thread/INFO] [Scaling Health/]: Blight Giddy Blaze was killed by l1
+[11Dec2024 14:55:02.248] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[11Dec2024 14:55:18.805] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[11Dec2024 14:55:28.957] [IO-Worker-83/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[11Dec2024 14:56:25.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [War Pigs]
+[11Dec2024 14:57:07.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8481, l='ServerLevel[world]', x=99.97, y=46.00, z=281.01] died: Samuel the Pit Master was slain by l1
+[11Dec2024 14:57:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Hunt and Gather]

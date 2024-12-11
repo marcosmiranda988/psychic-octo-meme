@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-11-18 04:15:16 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-11 14:42:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-11-13 11:08:49 +0000"
@@ -146,6 +158,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-07 12:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
     },
     "done": true
   },
@@ -541,6 +559,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2024-12-11 14:42:28 +0000",
       "earth": "2024-12-07 12:31:49 +0000"
     },
     "done": false
@@ -960,6 +979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-18 18:50:58 +0000"
@@ -1041,6 +1066,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-11-14 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2024-12-11 14:42:28 +0000"
     },
     "done": true
   },
@@ -3253,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-15 20:14:05 +0000"
@@ -4223,6 +4260,7 @@
       "minecraft:wither_skeleton": "2024-12-07 12:14:37 +0000",
       "minecraft:husk": "2024-11-17 17:55:38 +0000",
       "minecraft:cave_spider": "2024-11-17 19:30:43 +0000",
+      "minecraft:piglin": "2024-12-11 14:42:49 +0000",
       "minecraft:silverfish": "2024-11-15 20:00:04 +0000",
       "minecraft:stray": "2024-11-17 20:11:50 +0000",
       "minecraft:enderman": "2024-12-10 09:45:43 +0000",
@@ -5685,6 +5723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-13 11:10:35 +0000"
@@ -6320,6 +6364,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-15 19:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-11 14:46:17 +0000"
     },
     "done": true
   },
@@ -6993,6 +7043,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-11-15 20:01:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:medium": "2024-12-11 14:43:46 +0000"
     },
     "done": true
   },
