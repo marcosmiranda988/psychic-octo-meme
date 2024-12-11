@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
       "has_item": "2024-12-03 11:09:00 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:booster_dropped": {
     "criteria": {
       "picked_up_booster": "2024-11-17 21:15:45 +0000"
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-11-13 16:10:08 +0000"
@@ -566,6 +584,12 @@
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-11-13 11:08:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -1038,6 +1062,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2024-11-14 22:06:01 +0000"
@@ -1338,6 +1368,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-17 20:04:54 +0000"
@@ -1614,6 +1650,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_fence": {
     "criteria": {
       "has_item": "2024-11-25 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/tinkerer_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -1895,6 +1937,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-11-14 22:06:01 +0000"
@@ -1928,6 +1976,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-12-09 09:31:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -1970,6 +2024,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-11-15 19:58:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -2046,6 +2106,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-14 21:40:41 +0000"
@@ -2061,6 +2127,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2024-11-13 11:08:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -2370,6 +2442,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-13 11:08:49 +0000"
@@ -2481,6 +2559,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-11-19 20:43:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -2639,6 +2723,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-11-19 21:30:40 +0000"
@@ -2672,6 +2762,12 @@
   "twilightforest:recipes/twilightforest/wood/twilight_oak_chest": {
     "criteria": {
       "has_item": "2024-11-25 06:20:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -2756,6 +2852,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-11-15 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/philosopher_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -2925,6 +3027,12 @@
   "nethersdelight:recipes/nethersdelight/blackstone_stove": {
     "criteria": {
       "has_nether_brick": "2024-11-19 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -3205,6 +3313,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-11-25 06:45:12 +0000"
@@ -3310,6 +3424,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-18 18:50:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -3848,6 +3968,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
     "criteria": {
       "has_item": "2024-11-14 22:05:49 +0000"
@@ -4019,6 +4145,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-11-18 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/shepherd_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -4234,6 +4366,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-06 08:08:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -4618,6 +4756,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-13 11:10:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -5673,6 +5817,12 @@
     },
     "done": true
   },
+  "evilcraft:closure": {
+    "criteria": {
+      "criteria_0": "2024-12-11 14:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-13 11:12:39 +0000"
@@ -5712,6 +5862,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2024-11-13 11:10:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -5807,6 +5963,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
@@ -5840,6 +6002,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-11-18 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -6251,6 +6419,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-11-19 21:16:50 +0000"
@@ -6380,6 +6554,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-11-15 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },
@@ -6696,9 +6876,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-14 22:04:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:12:20 +0000"
     },
     "done": true
   },

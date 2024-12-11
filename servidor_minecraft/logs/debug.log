@@ -10825,3 +10825,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:05:23.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumError
 [11Dec2024 14:05:23.253] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumMode
 [11Dec2024 14:05:23.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/jiggo/editenchanting/common/enums/EnumBookStatus
+[11Dec2024 14:07:27.754] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/evilcraft/blockentity/BlockEntityBoxOfEternalClosure$State
+[11Dec2024 14:07:34.478] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[11Dec2024 14:08:00.413] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[11Dec2024 14:08:00.413] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[11Dec2024 14:08:00.414] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[11Dec2024 14:08:00.422] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[11Dec2024 14:08:00.423] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[11Dec2024 14:08:00.424] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[11Dec2024 14:08:00.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:08:00.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:08:03.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[11Dec2024 14:08:06.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[11Dec2024 14:08:53.552] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[11Dec2024 14:08:59.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Eternal Closure]
+[11Dec2024 14:09:13.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_plus:tower/top/full
+[11Dec2024 14:09:20.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vassili'/2376, l='ServerLevel[world]', x=-196.81, y=57.66, z=145.70] died, message: 'Vassili was slain by Zombie'
+[11Dec2024 14:09:20.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vassili'/2376, l='ServerLevel[world]', x=-196.81, y=57.66, z=145.70] died: Vassili was slain by Zombie
+[11Dec2024 14:09:20.089] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[11Dec2024 14:09:20.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[11Dec2024 14:10:12.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ae5c96a
+[11Dec2024 14:10:36.280] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[11Dec2024 14:13:00.402] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[11Dec2024 14:13:00.408] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[11Dec2024 14:13:00.409] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[11Dec2024 14:13:00.420] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[11Dec2024 14:13:00.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:13:00.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:13:41.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved wrongly!
+[11Dec2024 14:14:01.376] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[11Dec2024 14:15:03.029] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
