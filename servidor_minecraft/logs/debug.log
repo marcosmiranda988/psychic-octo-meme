@@ -10875,3 +10875,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:26:52.013] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
 [11Dec2024 14:27:33.907] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main42
 [11Dec2024 14:27:33.908] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main43
+[11Dec2024 14:28:00.454] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[11Dec2024 14:28:00.462] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[11Dec2024 14:28:00.491] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[11Dec2024 14:28:00.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:28:00.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:31:43.613] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[11Dec2024 14:31:43.671] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[11Dec2024 14:31:43.671] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[11Dec2024 14:31:58.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[11Dec2024 14:31:58.686] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[11Dec2024 14:33:00.414] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[11Dec2024 14:33:00.417] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[11Dec2024 14:33:00.419] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[11Dec2024 14:33:00.420] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[11Dec2024 14:33:00.462] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[11Dec2024 14:33:00.463] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[11Dec2024 14:33:00.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:33:00.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:34:36.414] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[11Dec2024 14:36:48.632] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[11Dec2024 14:36:48.632] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[11Dec2024 14:36:48.633] [IO-Worker-56/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
