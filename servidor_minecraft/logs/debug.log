@@ -11100,3 +11100,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:56:25.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [War Pigs]
 [11Dec2024 14:57:07.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8481, l='ServerLevel[world]', x=99.97, y=46.00, z=281.01] died: Samuel the Pit Master was slain by l1
 [11Dec2024 14:57:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Hunt and Gather]
+[11Dec2024 14:58:13.198] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[11Dec2024 14:58:13.209] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[11Dec2024 14:58:13.222] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[11Dec2024 14:58:13.233] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[11Dec2024 14:58:13.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:58:13.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:58:18.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8482, l='ServerLevel[world]', x=102.19, y=51.00, z=285.11] died: Samuel the Pit Master was slain by l1
+[11Dec2024 14:59:13.837] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[11Dec2024 14:59:18.751] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[11Dec2024 14:59:25.147] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:59:27.534] [Worker-Main43/DEBUG] [ModernFix/]: Structure stalwart_dungeons:awful_dungeon_spawn is being run through DFU (hash cc90fe7a581172f7938d66889ef9e554344bbe24f26c25d7a8803eaa249cef63), this will cause launch time delays
+[11Dec2024 14:59:32.613] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 15:00:58.592] [IO-Worker-87/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[11Dec2024 15:02:07.312] [Server thread/INFO] [Scaling Health/]: Blight Piglin Brute was killed by l1
+[11Dec2024 15:03:01.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gaze the Withering'/9511, l='ServerLevel[world]', x=230.63, y=51.87, z=283.91] died: Gaze the Withering was slain by l1
+[11Dec2024 15:03:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [A New Protector...]
+[11Dec2024 15:03:13.197] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[11Dec2024 15:03:13.198] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[11Dec2024 15:03:13.206] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[11Dec2024 15:03:13.207] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[11Dec2024 15:03:13.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:03:13.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:04:25.231] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[11Dec2024 15:05:33.538] [IO-Worker-91/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[11Dec2024 15:05:33.543] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[11Dec2024 15:05:33.543] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[11Dec2024 15:05:33.543] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[11Dec2024 15:07:03.804] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/crystal_dunes/town_centers/0
+[11Dec2024 15:07:03.813] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/sunset_maple_forest/town_centers/0
+[11Dec2024 15:07:03.822] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/slushlands/town_centers/2
+[11Dec2024 15:07:03.832] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/brightlands/town_centers/0
+[11Dec2024 15:07:03.839] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/shaded_woodlands/town_centers/2
+[11Dec2024 15:07:03.844] [Worker-Main3/DEBUG] [ModernFix/]: Using cached upgraded version of blue_skies:village/calming_skies/town_centers/1
+[11Dec2024 15:07:04.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 5.753367084830245,0.5966924762406265,8.663269957965554
+[11Dec2024 15:07:06.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[11Dec2024 15:07:14.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Ancient Battlefield]

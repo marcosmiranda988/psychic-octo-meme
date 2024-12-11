@@ -1676,3 +1676,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:56:25.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [War Pigs]
 [11Dec2024 14:57:07.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8481, l='ServerLevel[world]', x=99.97, y=46.00, z=281.01] died: Samuel the Pit Master was slain by l1
 [11Dec2024 14:57:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Hunt and Gather]
+[11Dec2024 14:58:18.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/8482, l='ServerLevel[world]', x=102.19, y=51.00, z=285.11] died: Samuel the Pit Master was slain by l1
+[11Dec2024 14:59:25.147] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 14:59:32.613] [Worker-Main42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[11Dec2024 15:02:07.312] [Server thread/INFO] [Scaling Health/]: Blight Piglin Brute was killed by l1
+[11Dec2024 15:03:01.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gaze the Withering'/9511, l='ServerLevel[world]', x=230.63, y=51.87, z=283.91] died: Gaze the Withering was slain by l1
+[11Dec2024 15:03:01.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [A New Protector...]
+[11Dec2024 15:07:04.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved too quickly! 5.753367084830245,0.5966924762406265,8.663269957965554
+[11Dec2024 15:07:06.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[11Dec2024 15:07:14.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 has made the advancement [Ancient Battlefield]

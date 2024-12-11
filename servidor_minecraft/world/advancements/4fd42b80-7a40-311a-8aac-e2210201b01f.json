@@ -1690,6 +1690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-11-18 03:18:51 +0000"
@@ -2467,6 +2473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-13 16:24:36 +0000"
@@ -3079,6 +3091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-07 13:23:37 +0000"
@@ -3242,6 +3260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-11-18 03:01:19 +0000"
@@ -3290,6 +3314,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2024-12-11 14:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-11-15 20:14:05 +0000"
@@ -3323,6 +3353,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-11-19 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
@@ -3560,6 +3596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-11-15 20:10:54 +0000"
@@ -3788,6 +3830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-11-17 18:05:26 +0000"
@@ -3899,6 +3947,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
@@ -4248,12 +4302,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-07 12:58:33 +0000",
+      "minecraft:blaze": "2024-12-11 14:56:18 +0000",
       "minecraft:skeleton": "2024-11-14 21:59:01 +0000",
       "minecraft:ghast": "2024-11-18 04:04:48 +0000",
       "minecraft:hoglin": "2024-12-07 12:14:27 +0000",
       "minecraft:vindicator": "2024-12-07 12:57:09 +0000",
       "minecraft:magma_cube": "2024-12-07 13:32:45 +0000",
       "minecraft:spider": "2024-11-15 20:00:52 +0000",
+      "minecraft:piglin_brute": "2024-12-11 14:57:07 +0000",
       "minecraft:slime": "2024-12-07 12:30:43 +0000",
       "minecraft:phantom": "2024-12-07 12:30:33 +0000",
       "minecraft:witch": "2024-11-18 03:18:51 +0000",
@@ -4398,6 +4454,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-07 12:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
@@ -4596,6 +4658,12 @@
   "miners_delight:recipes/miners_delight/sticky_basket": {
     "criteria": {
       "has_cobweb": "2024-11-17 20:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
@@ -5091,6 +5159,12 @@
     },
     "done": true
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2024-12-11 15:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-11-14 21:57:58 +0000"
@@ -5106,6 +5180,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-11-18 03:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
@@ -5226,6 +5306,12 @@
   "nethersdelight:recipes/nethersdelight/warped_moldy_meat": {
     "criteria": {
       "has_sirloin": "2024-12-07 12:14:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-11 14:57:18 +0000"
     },
     "done": true
   },
@@ -6415,6 +6501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
     "criteria": {
       "has_item": "2024-11-19 21:16:50 +0000"
@@ -6890,6 +6982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2024-11-13 11:08:49 +0000"
@@ -7025,6 +7123,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-14 22:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-12-11 15:02:22 +0000"
     },
     "done": true
   },
