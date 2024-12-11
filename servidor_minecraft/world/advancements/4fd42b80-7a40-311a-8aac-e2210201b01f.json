@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-11 15:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-11-17 20:18:21 +0000"
@@ -3588,6 +3594,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-11 15:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-11-17 20:04:54 +0000"
@@ -4935,6 +4947,12 @@
     },
     "done": true
   },
+  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
+    "criteria": {
+      "requirement": "2024-12-11 15:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-14 21:59:59 +0000"
@@ -5772,6 +5790,12 @@
     },
     "done": true
   },
+  "majruszsaccessories:recipes/misc/golden_horseshoe": {
+    "criteria": {
+      "has_horseshoe": "2024-12-11 15:44:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-11-19 21:16:12 +0000"
@@ -5842,6 +5866,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-11 15:42:36 +0000",
       "sweet_berries": "2024-11-24 23:42:19 +0000",
+      "cooked_beef": "2024-12-11 15:47:08 +0000",
       "baked_potato": "2024-11-18 03:01:50 +0000",
       "apple": "2024-11-13 11:12:39 +0000",
       "potato": "2024-12-06 17:17:58 +0000",
