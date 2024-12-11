@@ -10855,3 +10855,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 14:13:41.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: l1 moved wrongly!
 [11Dec2024 14:14:01.376] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
 [11Dec2024 14:15:03.029] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[11Dec2024 14:18:00.397] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[11Dec2024 14:18:00.404] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[11Dec2024 14:18:00.404] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[11Dec2024 14:18:00.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[11Dec2024 14:18:00.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:18:00.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:21:06.532] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[11Dec2024 14:21:35.354] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main37
+[11Dec2024 14:21:59.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[11Dec2024 14:21:59.199] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[11Dec2024 14:23:00.398] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[11Dec2024 14:23:00.401] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[11Dec2024 14:23:00.401] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[11Dec2024 14:23:00.402] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[11Dec2024 14:23:00.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 14:23:00.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 14:25:52.013] [Worker-Main37/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main37 shutdown
+[11Dec2024 14:26:52.013] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main1 shutdown
+[11Dec2024 14:27:33.907] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main42
+[11Dec2024 14:27:33.908] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main43

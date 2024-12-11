@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-12-11 14:19:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/canopy_trapdoor": {
     "criteria": {
       "has_item": "2024-11-18 19:47:59 +0000"
@@ -1038,15 +1044,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-11-14 22:09:13 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-14 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-11 14:13:09 +0000"
     },
     "done": true
   },
@@ -1524,6 +1548,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-07 13:37:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2024-12-11 14:22:51 +0000"
     },
     "done": true
   },
@@ -2544,6 +2574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-11 14:18:03 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2024-11-17 21:08:48 +0000"
@@ -2589,6 +2625,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-11-19 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-11 14:18:06 +0000"
     },
     "done": true
   },
@@ -4399,6 +4441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-11 14:18:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2024-11-14 22:05:45 +0000"
@@ -4928,6 +4976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-11 14:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-11-24 23:36:48 +0000",
@@ -5227,6 +5281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-11 14:19:11 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/cooked_tropical_fish_from_campfire_cooking": {
     "criteria": {
       "cooked_tropical_fish": "2024-12-07 13:11:57 +0000"
@@ -5442,6 +5502,18 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2024-11-13 16:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-12-11 14:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-12-11 14:18:06 +0000"
     },
     "done": true
   },
@@ -6110,6 +6182,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-11-19 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-11 14:19:11 +0000"
     },
     "done": true
   },
