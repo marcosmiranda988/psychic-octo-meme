@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-11 15:18:58 +0000"
+    },
+    "done": true
+  },
   "majruszsaccessories:booster_dropped": {
     "criteria": {
       "picked_up_booster": "2024-11-17 21:15:45 +0000"
@@ -645,6 +651,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2024-11-15 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2024-12-11 15:15:54 +0000"
     },
     "done": true
   },
@@ -1554,7 +1566,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-11-19 20:57:05 +0000",
       "minecraft:nether_wastes": "2024-11-19 21:23:48 +0000",
-      "minecraft:soul_sand_valley": "2024-11-19 21:22:46 +0000"
+      "minecraft:soul_sand_valley": "2024-11-19 21:22:46 +0000",
+      "minecraft:basalt_deltas": "2024-12-11 15:17:37 +0000"
     },
     "done": false
   },
@@ -4257,6 +4270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-11 15:18:58 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-11-13 11:08:49 +0000"
@@ -4418,6 +4437,12 @@
   "mekanism:materials": {
     "criteria": {
       "material": "2024-11-15 19:33:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2024-12-11 15:19:04 +0000"
     },
     "done": true
   },
@@ -5088,6 +5113,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2024-12-11 15:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-14 22:04:56 +0000"
@@ -5645,6 +5676,12 @@
   "blue_skies:recipes/blue_skies_combat/cherry_spear": {
     "criteria": {
       "has_item": "2024-12-07 12:09:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2024-12-11 15:19:28 +0000"
     },
     "done": true
   },
@@ -6733,6 +6770,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-07 12:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-11 15:18:58 +0000"
     },
     "done": true
   },
