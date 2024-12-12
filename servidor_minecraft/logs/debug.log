@@ -10824,3 +10824,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Dec2024 14:55:55.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 14:55:55.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 14:58:46.106] [IO-Worker-18/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[12Dec2024 15:00:19.459] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cyclops/cyclopscore/algorithm/Dimension
+[12Dec2024 15:00:26.380] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@202b84bb
+[12Dec2024 15:00:55.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[12Dec2024 15:00:55.515] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[12Dec2024 15:00:55.516] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[12Dec2024 15:00:55.517] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[12Dec2024 15:00:55.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 15:00:55.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 15:01:40.377] [Worker-Main2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main2 shutdown
+[12Dec2024 15:02:17.302] [Worker-Main1/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main24
+[12Dec2024 15:02:47.584] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[12Dec2024 15:02:49.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[12Dec2024 15:05:28.883] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[12Dec2024 15:05:28.883] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[12Dec2024 15:05:55.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 15:05:55.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 15:08:20.783] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[12Dec2024 15:08:20.783] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[12Dec2024 15:08:20.788] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[12Dec2024 15:09:27.704] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[12Dec2024 15:09:27.704] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[12Dec2024 15:09:27.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
