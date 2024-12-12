@@ -10880,3 +10880,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Dec2024 15:25:55.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 15:27:36.980] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
 [12Dec2024 15:28:59.332] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[12Dec2024 15:30:55.495] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[12Dec2024 15:30:55.507] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[12Dec2024 15:30:55.523] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[12Dec2024 15:30:55.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 15:30:55.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 15:35:55.497] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[12Dec2024 15:35:55.502] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[12Dec2024 15:35:55.502] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[12Dec2024 15:35:55.503] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[12Dec2024 15:35:55.535] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[12Dec2024 15:35:55.535] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[12Dec2024 15:35:55.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 15:35:55.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 15:37:56.836] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[12Dec2024 15:39:48.980] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[12Dec2024 15:40:21.961] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[12Dec2024 15:40:21.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
