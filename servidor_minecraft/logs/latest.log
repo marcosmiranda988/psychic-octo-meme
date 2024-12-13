@@ -1603,3 +1603,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 14:36:47.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to l1
 [13Dec2024 14:36:47.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l1 joined the game
 [13Dec2024 14:36:47.613] [Server thread/INFO] [Jade/]: Syncing config to l1 (4fd42b80-7a40-311a-8aac-e2210201b01f)
+[13Dec2024 14:37:22.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/silentchaos512/lib/advancements/UseItemTrigger$Target
+[13Dec2024 14:37:22.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[13Dec2024 14:37:22.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[13Dec2024 14:37:37.116] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/animate/server/handler/EMAnimationHandler
+[13Dec2024 14:38:11.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Dec2024 14:40:50.677] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[13Dec2024 14:41:42.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[13Dec2024 14:47:08.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
+[13Dec2024 14:47:08.192] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
+[13Dec2024 14:47:08.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
