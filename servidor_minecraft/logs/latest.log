@@ -1613,3 +1613,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Dec2024 14:47:08.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/api/chemical/merged/MergedChemicalTank$Current
 [13Dec2024 14:47:08.192] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mekanism/common/capabilities/merged/MergedTank$CurrentType
 [13Dec2024 14:47:08.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[13Dec2024 15:07:38.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
+[13Dec2024 15:07:38.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
+[13Dec2024 15:07:38.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
+[13Dec2024 15:07:38.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
+[13Dec2024 15:07:38.596] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
+[13Dec2024 15:07:38.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-327, y=108, z=30} BlockPos{x=-324, y=107, z=28}
